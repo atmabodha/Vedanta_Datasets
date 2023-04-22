@@ -11,3 +11,8 @@ Upcoming:
 
 1. Other books (kanda) of Valmiki Ramayana
 2. Mahabharata
+
+Links to other useful datasets and codes:
+
+https://github.com/rahular/itihasa
+https://huggingface.co/surajp/albert-base-sanskrit
