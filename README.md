@@ -3,9 +3,11 @@ This repository contains datasets from various vedic texts which can be used for
 
 Datasets added so far:
 
-1. Bhagvad Gita Sanskrit verses
+1. Bhagwad Gita Sanskrit verses
+2. Bhagwad Gita Concept Mapping for 75 verses
 2. Patanjali Yoga Sutras Sanskrit verses
 3. Valmiki Ramayana Balakanda Sanskrit verses
+4. Valmiki Ramayana Ayodhyakanda Sanskrit verses
 
 Upcoming:
 
