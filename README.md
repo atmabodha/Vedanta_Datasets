@@ -8,7 +8,7 @@ Datasets added so far:
 2. Patanjali Yoga Sutras Sanskrit verses
 3. Valmiki Ramayana Balakanda Sanskrit verses
 4. Valmiki Ramayana Ayodhyakanda Sanskrit verses
-5. Mahabharata
+5. Mahabharata (credit : Abishek Goda)
 
 Upcoming:
 
