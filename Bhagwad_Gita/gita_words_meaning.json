@@ -1,0 +1,3259 @@
+[
+  {
+    "Verse": "1.1",
+    "Sanskrit Word": "धर्मक्षेत्रे",
+    "English Meaning": "In the field of righteousness (Dharma)"
+  },
+  {
+    "Verse": "1.1",
+    "Sanskrit Word": "कुरुक्षेत्रे",
+    "English Meaning": "In the field of the Kurus"
+  },
+  {
+    "Verse": "1.1",
+    "Sanskrit Word": "युयुत्सवः",
+    "English Meaning": "Desiring to fight"
+  },
+  {
+    "Verse": "1.1",
+    "Sanskrit Word": "मामकाः",
+    "English Meaning": "My sons"
+  },
+  {
+    "Verse": "1.1",
+    "Sanskrit Word": "पाण्डवाः",
+    "English Meaning": "The sons of Pandu"
+  },
+  {
+    "Verse": "1.1",
+    "Sanskrit Word": "अकुर्वत",
+    "English Meaning": "Did they do"
+  },
+  {
+    "Verse": "1.2",
+    "Sanskrit Word": "दृष्ट्वा",
+    "English Meaning": "Having seen"
+  },
+  {
+    "Verse": "1.2",
+    "Sanskrit Word": "व्यूढं",
+    "English Meaning": "Arranged in military phalanx"
+  },
+  {
+    "Verse": "1.2",
+    "Sanskrit Word": "आचार्यम्",
+    "English Meaning": "The teacher (Dronacharya)"
+  },
+  {
+    "Verse": "1.2",
+    "Sanskrit Word": "राजा",
+    "English Meaning": "The King"
+  },
+  {
+    "Verse": "1.3",
+    "Sanskrit Word": "पश्य",
+    "English Meaning": "Behold / Look"
+  },
+  {
+    "Verse": "1.3",
+    "Sanskrit Word": "चमूम्",
+    "English Meaning": "Army"
+  },
+  {
+    "Verse": "1.3",
+    "Sanskrit Word": "शिष्येण",
+    "English Meaning": "By the disciple"
+  },
+  {
+    "Verse": "1.3",
+    "Sanskrit Word": "धीमता",
+    "English Meaning": "Intelligent / Wise"
+  },
+  {
+    "Verse": "1.4",
+    "Sanskrit Word": "शूराः",
+    "English Meaning": "Heroes / Brave warriors"
+  },
+  {
+    "Verse": "1.4",
+    "Sanskrit Word": "महारथाः",
+    "English Meaning": "Great chariot warriors"
+  },
+  {
+    "Verse": "1.7",
+    "Sanskrit Word": "विशिष्टा",
+    "English Meaning": "Distinguished / Special"
+  },
+  {
+    "Verse": "1.7",
+    "Sanskrit Word": "निबोध",
+    "English Meaning": "Be informed / Just know"
+  },
+  {
+    "Verse": "1.10",
+    "Sanskrit Word": "अपर्याप्तम्",
+    "English Meaning": "Insufficient / Inadequate"
+  },
+  {
+    "Verse": "1.10",
+    "Sanskrit Word": "बलम्",
+    "English Meaning": "Strength / Power"
+  },
+  {
+    "Verse": "1.12",
+    "Sanskrit Word": "हर्षम्",
+    "English Meaning": "Joy / Cheer"
+  },
+  {
+    "Verse": "1.12",
+    "Sanskrit Word": "सिंहनादम्",
+    "English Meaning": "Roar like a lion"
+  },
+  {
+    "Verse": "1.12",
+    "Sanskrit Word": "शङ्खम्",
+    "English Meaning": "Conchshell"
+  },
+  {
+    "Verse": "1.13",
+    "Sanskrit Word": "सहसा",
+    "English Meaning": "Suddenly"
+  },
+  {
+    "Verse": "1.14",
+    "Sanskrit Word": "श्वेतैः",
+    "English Meaning": "White"
+  },
+  {
+    "Verse": "1.14",
+    "Sanskrit Word": "हयैः",
+    "English Meaning": "By horses"
+  },
+  {
+    "Verse": "1.14",
+    "Sanskrit Word": "दिव्यौ",
+    "English Meaning": "Divine"
+  },
+  {
+    "Verse": "1.15",
+    "Sanskrit Word": "ऋषीकेश:",
+    "English Meaning": "Master of the senses (Krishna)"
+  },
+  {
+    "Verse": "1.19",
+    "Sanskrit Word": "हृदयानि",
+    "English Meaning": "Hearts"
+  },
+  {
+    "Verse": "1.19",
+    "Sanskrit Word": "नभः",
+    "English Meaning": "The sky"
+  },
+  {
+    "Verse": "1.21",
+    "Sanskrit Word": "मध्ये",
+    "English Meaning": "In the middle"
+  },
+  {
+    "Verse": "1.21",
+    "Sanskrit Word": "अच्युत",
+    "English Meaning": "The infallible one (Krishna)"
+  },
+  {
+    "Verse": "1.27",
+    "Sanskrit Word": "कृपया",
+    "English Meaning": "By compassion"
+  },
+  {
+    "Verse": "1.27",
+    "Sanskrit Word": "विषीदन्",
+    "English Meaning": "Lamenting / Sorrowful"
+  },
+  {
+    "Verse": "1.28",
+    "Sanskrit Word": "गात्राणि",
+    "English Meaning": "Limbs / Body parts"
+  },
+  {
+    "Verse": "1.28",
+    "Sanskrit Word": "मुखम्",
+    "English Meaning": "Face"
+  },
+  {
+    "Verse": "1.29",
+    "Sanskrit Word": "वेपथुः",
+    "English Meaning": "Trembling / Shivering"
+  },
+  {
+    "Verse": "1.29",
+    "Sanskrit Word": "मनः",
+    "English Meaning": "Mind"
+  },
+  {
+    "Verse": "1.29",
+    "Sanskrit Word": "अनुपश्यामि",
+    "English Meaning": "I foresee / I see"
+  },
+  {
+    "Verse": "2.11",
+    "Sanskrit Word": "पण्डिताः",
+    "English Meaning": "The wise / Scholars"
+  },
+  {
+    "Verse": "2.13",
+    "Sanskrit Word": "धीरः",
+    "English Meaning": "The steady / Intelligent person"
+  },
+  {
+    "Verse": "2.14",
+    "Sanskrit Word": "अनित्याः",
+    "English Meaning": "Temporary / Fleeting"
+  },
+  {
+    "Verse": "2.14",
+    "Sanskrit Word": "तितिक्षस्व",
+    "English Meaning": "Endure / Tolerate"
+  },
+  {
+    "Verse": "2.17",
+    "Sanskrit Word": "अविनाशि",
+    "English Meaning": "Imperishable / Indestructible"
+  },
+  {
+    "Verse": "2.20",
+    "Sanskrit Word": "शाश्वतः",
+    "English Meaning": "Eternal / Permanent"
+  },
+  {
+    "Verse": "2.22",
+    "Sanskrit Word": "वासांसि",
+    "English Meaning": "Clothes / Garments"
+  },
+  {
+    "Verse": "2.23",
+    "Sanskrit Word": "शस्त्राणि",
+    "English Meaning": "Weapons"
+  },
+  {
+    "Verse": "2.23",
+    "Sanskrit Word": "पावकः",
+    "English Meaning": "Fire"
+  },
+  {
+    "Verse": "2.47",
+    "Sanskrit Word": "अधिकारः",
+    "English Meaning": "Right / Claim"
+  },
+  {
+    "Verse": "2.47",
+    "Sanskrit Word": "फलेषु",
+    "English Meaning": "In the fruits / results"
+  },
+  {
+    "Verse": "2.48",
+    "Sanskrit Word": "समत्वम्",
+    "English Meaning": "Equanimity / Evenness of mind"
+  },
+  {
+    "Verse": "2.49",
+    "Sanskrit Word": "दूरेण",
+    "English Meaning": "By a great distance / far away"
+  },
+  {
+    "Verse": "2.49",
+    "Sanskrit Word": "अवरम्",
+    "English Meaning": "Inferior / lower"
+  },
+  {
+    "Verse": "2.49",
+    "Sanskrit Word": "बुद्धि योगात्",
+    "English Meaning": "Than the yoga of wisdom"
+  },
+  {
+    "Verse": "2.49",
+    "Sanskrit Word": "शरणम्",
+    "English Meaning": "Refuge / shelter"
+  },
+  {
+    "Verse": "2.49",
+    "Sanskrit Word": "कृपणा:",
+    "English Meaning": "Miserly / those who pitiably crave fruits"
+  },
+  {
+    "Verse": "2.50",
+    "Sanskrit Word": "जहाति",
+    "English Meaning": "Relinquishes / leaves behind"
+  },
+  {
+    "Verse": "2.50",
+    "Sanskrit Word": "सुकृत",
+    "English Meaning": "Good deeds / righteous actions"
+  },
+  {
+    "Verse": "2.50",
+    "Sanskrit Word": "युज्यस्व",
+    "English Meaning": "Devote yourself / strive for"
+  },
+  {
+    "Verse": "2.51",
+    "Sanskrit Word": "मनीषिणः",
+    "English Meaning": "The wise / sages"
+  },
+  {
+    "Verse": "2.51",
+    "Sanskrit Word": "अनामयम्",
+    "English Meaning": "Free from suffering / blissful"
+  },
+  {
+    "Verse": "2.52",
+    "Sanskrit Word": "कलिलम्",
+    "English Meaning": "Thicket / maze / impurity"
+  },
+  {
+    "Verse": "2.52",
+    "Sanskrit Word": "व्यतितरिष्यति",
+    "English Meaning": "Will cross beyond"
+  },
+  {
+    "Verse": "2.52",
+    "Sanskrit Word": "निर्वेदम्",
+    "English Meaning": "Indifference / detachment"
+  },
+  {
+    "Verse": "2.53",
+    "Sanskrit Word": "निश्चला",
+    "English Meaning": "Unwavering / steady"
+  },
+  {
+    "Verse": "2.53",
+    "Sanskrit Word": "समाधौ",
+    "English Meaning": "In deep meditation / divine consciousness"
+  },
+  {
+    "Verse": "2.54",
+    "Sanskrit Word": "स्थितधी:",
+    "English Meaning": "One of steady intellect"
+  },
+  {
+    "Verse": "2.54",
+    "Sanskrit Word": "प्रभाषेत",
+    "English Meaning": "Speaks"
+  },
+  {
+    "Verse": "2.55",
+    "Sanskrit Word": "प्रजहाति",
+    "English Meaning": "Gives up / discards"
+  },
+  {
+    "Verse": "2.55",
+    "Sanskrit Word": "तुष्टः",
+    "English Meaning": "Satisfied / content"
+  },
+  {
+    "Verse": "2.56",
+    "Sanskrit Word": "अनुद्विग्नमनाः",
+    "English Meaning": "One whose mind is unperturbed"
+  },
+  {
+    "Verse": "2.56",
+    "Sanskrit Word": "वीत",
+    "English Meaning": "Free from"
+  },
+  {
+    "Verse": "2.57",
+    "Sanskrit Word": "अनभिस्नेहः",
+    "English Meaning": "Without attachment"
+  },
+  {
+    "Verse": "2.57",
+    "Sanskrit Word": "अभिनन्दति",
+    "English Meaning": "Rejoices"
+  },
+  {
+    "Verse": "2.58",
+    "Sanskrit Word": "संहरते",
+    "English Meaning": "Withdraws"
+  },
+  {
+    "Verse": "2.58",
+    "Sanskrit Word": "कूर्र्मः",
+    "English Meaning": "Tortoise"
+  },
+  {
+    "Verse": "2.59",
+    "Sanskrit Word": "निराहारस्य",
+    "English Meaning": "For one who abstains (from sense objects)"
+  },
+  {
+    "Verse": "2.60",
+    "Sanskrit Word": "विपश्चितः",
+    "English Meaning": "Of the discerning / wise"
+  },
+  {
+    "Verse": "2.60",
+    "Sanskrit Word": "प्रसभम्",
+    "English Meaning": "Forcible / by force"
+  },
+  {
+    "Verse": "2.61",
+    "Sanskrit Word": "संयम्य",
+    "English Meaning": "Restraining / controlling"
+  },
+  {
+    "Verse": "2.62",
+    "Sanskrit Word": "ध्यायत:",
+    "English Meaning": "While contemplating / dwelling upon"
+  },
+  {
+    "Verse": "2.63",
+    "Sanskrit Word": "सम्मोहः",
+    "English Meaning": "Delusion / confusion"
+  },
+  {
+    "Verse": "2.63",
+    "Sanskrit Word": "स्मृतिभ्रंशात्",
+    "English Meaning": "From loss of memory"
+  },
+  {
+    "Verse": "2.64",
+    "Sanskrit Word": "आत्मवश्यैः",
+    "English Meaning": "Under one's own control"
+  },
+  {
+    "Verse": "2.64",
+    "Sanskrit Word": "प्रसादम्",
+    "English Meaning": "Tranquility / serenity"
+  },
+  {
+    "Verse": "2.66",
+    "Sanskrit Word": "अभावयतः",
+    "English Meaning": "For one who does not meditate"
+  },
+  {
+    "Verse": "2.67",
+    "Sanskrit Word": "अनुविधीयते",
+    "English Meaning": "Follows / yields to"
+  },
+  {
+    "Verse": "2.67",
+    "Sanskrit Word": "अम्भसि",
+    "English Meaning": "On the water"
+  },
+  {
+    "Verse": "2.69",
+    "Sanskrit Word": "संयमी",
+    "English Meaning": "The self-controlled man"
+  },
+  {
+    "Verse": "2.70",
+    "Sanskrit Word": "आपूर्यमाणम्",
+    "English Meaning": "Being filled from all sides"
+  },
+  {
+    "Verse": "2.70",
+    "Sanskrit Word": "कामकामी",
+    "English Meaning": "One who desires desires / craver"
+  },
+  {
+    "Verse": "2.71",
+    "Sanskrit Word": "निःस्पृहः",
+    "English Meaning": "Free from longing"
+  },
+  {
+    "Verse": "2.72",
+    "Sanskrit Word": "ब्राह्मी",
+    "English Meaning": "God-realized state / spiritual state"
+  },
+  {
+    "Verse": "2.72",
+    "Sanskrit Word": "विमुह्यति",
+    "English Meaning": "Deluded / bewildered"
+  },
+  {
+    "Verse": "3.1",
+    "Sanskrit Word": "ज्यायसी",
+    "English Meaning": "Superior / better"
+  },
+  {
+    "Verse": "3.1",
+    "Sanskrit Word": "जनार्दन",
+    "English Meaning": "O Krishna, maintainer of all living entities"
+  },
+  {
+    "Verse": "3.1",
+    "Sanskrit Word": "नियोजयसि",
+    "English Meaning": "Engage / urge"
+  },
+  {
+    "Verse": "3.2",
+    "Sanskrit Word": "व्यामिश्रेण",
+    "English Meaning": "Ambiguous / equivocal"
+  },
+  {
+    "Verse": "3.2",
+    "Sanskrit Word": "मोहयसि",
+    "English Meaning": "Confusing / bewildering"
+  },
+  {
+    "Verse": "3.2",
+    "Sanskrit Word": "निश्चित्य",
+    "English Meaning": "With certainty / decisively"
+  },
+  {
+    "Verse": "3.3",
+    "Sanskrit Word": "द्विविधा",
+    "English Meaning": "Twofold / of two kinds"
+  },
+  {
+    "Verse": "3.3",
+    "Sanskrit Word": "निष्ठा",
+    "English Meaning": "Faith / path / steady practice"
+  },
+  {
+    "Verse": "3.3",
+    "Sanskrit Word": "ज्ञानयोगेन",
+    "English Meaning": "Through the path of knowledge"
+  },
+  {
+    "Verse": "3.3",
+    "Sanskrit Word": "कर्मयोगेन",
+    "English Meaning": "Through the path of action"
+  },
+  {
+    "Verse": "3.4",
+    "Sanskrit Word": "नैष्कर्म्यम्",
+    "English Meaning": "Freedom from the bonds of action"
+  },
+  {
+    "Verse": "3.4",
+    "Sanskrit Word": "सिद्धिम्",
+    "English Meaning": "Perfection / success"
+  },
+  {
+    "Verse": "3.5",
+    "Sanskrit Word": "अकर्मकृत्",
+    "English Meaning": "Without performing action"
+  },
+  {
+    "Verse": "3.5",
+    "Sanskrit Word": "अवशः",
+    "English Meaning": "Helplessly / under compulsion"
+  },
+  {
+    "Verse": "3.6",
+    "Sanskrit Word": "मिथ्याचारः",
+    "English Meaning": "Hypocrite / pretender"
+  },
+  {
+    "Verse": "3.7",
+    "Sanskrit Word": "नियम्य",
+    "English Meaning": "Regulating / controlling"
+  },
+  {
+    "Verse": "3.7",
+    "Sanskrit Word": "असक्तः",
+    "English Meaning": "Unattached / detached"
+  },
+  {
+    "Verse": "3.8",
+    "Sanskrit Word": "नियतम्",
+    "English Meaning": "Prescribed / obligatory"
+  },
+  {
+    "Verse": "3.8",
+    "Sanskrit Word": "शरीरयात्रा",
+    "English Meaning": "Maintenance of the body"
+  },
+  {
+    "Verse": "3.9",
+    "Sanskrit Word": "कर्मबन्धनः",
+    "English Meaning": "Bondage caused by action"
+  },
+  {
+    "Verse": "3.9",
+    "Sanskrit Word": "मुक्तसङ्गः",
+    "English Meaning": "Free from attachment"
+  },
+  {
+    "Verse": "3.10",
+    "Sanskrit Word": "प्रजापतिः",
+    "English Meaning": "The Lord of creatures (Brahma)"
+  },
+  {
+    "Verse": "3.10",
+    "Sanskrit Word": "इष्टकामधुक्",
+    "English Meaning": "Milch cow of desires / fulfiller of desires"
+  },
+  {
+    "Verse": "3.12",
+    "Sanskrit Word": "स्तेनः",
+    "English Meaning": "A thief"
+  },
+  {
+    "Verse": "3.13",
+    "Sanskrit Word": "किल्बिशैः",
+    "English Meaning": "From sins"
+  },
+  {
+    "Verse": "3.14",
+    "Sanskrit Word": "पर्जन्यात्",
+    "English Meaning": "From rain"
+  },
+  {
+    "Verse": "3.16",
+    "Sanskrit Word": "चक्रम्",
+    "English Meaning": "Cycle / wheel"
+  },
+  {
+    "Verse": "3.16",
+    "Sanskrit Word": "अघायुः",
+    "English Meaning": "One whose life is full of sin"
+  },
+  {
+    "Verse": "3.16",
+    "Sanskrit Word": "इन्द्रियारामः",
+    "English Meaning": "One who revels in the senses"
+  },
+  {
+    "Verse": "3.17",
+    "Sanskrit Word": "आत्मरतिः",
+    "English Meaning": "One who rejoices in the Self"
+  },
+  {
+    "Verse": "3.17",
+    "Sanskrit Word": "आत्मतृप्तः",
+    "English Meaning": "Self-satisfied"
+  },
+  {
+    "Verse": "3.18",
+    "Sanskrit Word": "व्यपाश्रयः",
+    "English Meaning": "Dependence / seeking refuge"
+  },
+  {
+    "Verse": "3.20",
+    "Sanskrit Word": "लोकसंग्रहम्",
+    "English Meaning": "Welfare of the world / maintenance of order"
+  },
+  {
+    "Verse": "3.21",
+    "Sanskrit Word": "प्रमाणम्",
+    "English Meaning": "Standard / authority"
+  },
+  {
+    "Verse": "3.25",
+    "Sanskrit Word": "चिकीर्षुः",
+    "English Meaning": "Desiring to act / perform"
+  },
+  {
+    "Verse": "3.26",
+    "Sanskrit Word": "बुद्धिभेदम्",
+    "English Meaning": "Confusion of the intellect"
+  },
+  {
+    "Verse": "3.27",
+    "Sanskrit Word": "अहङ्कारविमूढात्मा",
+    "English Meaning": "One whose mind is deluded by ego"
+  },
+  {
+    "Verse": "3.30",
+    "Sanskrit Word": "निराशीः",
+    "English Meaning": "Without hope / free from desire for results"
+  },
+  {
+    "Verse": "3.30",
+    "Sanskrit Word": "विगतज्वरः",
+    "English Meaning": "Free from mental fever / anxiety"
+  },
+  {
+    "Verse": "3.34",
+    "Sanskrit Word": "परिपन्थिनौ",
+    "English Meaning": "Obstacles / enemies / stumbling blocks"
+  },
+  {
+    "Verse": "3.35",
+    "Sanskrit Word": "स्वधर्मे",
+    "English Meaning": "In one's own duty"
+  },
+  {
+    "Verse": "3.35",
+    "Sanskrit Word": "भयावहः",
+    "English Meaning": "Fraught with fear / dangerous"
+  },
+  {
+    "Verse": "3.37",
+    "Sanskrit Word": "महाशनः",
+    "English Meaning": "All-devouring / great consumer"
+  },
+  {
+    "Verse": "3.37",
+    "Sanskrit Word": "महापाप्मा",
+    "English Meaning": "Greatly sinful"
+  },
+  {
+    "Verse": "3.38",
+    "Sanskrit Word": "आदर्शः",
+    "English Meaning": "Mirror"
+  },
+  {
+    "Verse": "3.38",
+    "Sanskrit Word": "उल्बेना",
+    "English Meaning": "By the womb / membrane"
+  },
+  {
+    "Verse": "3.39",
+    "Sanskrit Word": "अनलेन",
+    "English Meaning": "By fire"
+  },
+  {
+    "Verse": "3.41",
+    "Sanskrit Word": "ज्ञानविज्ञाननाशनम्",
+    "English Meaning": "Destroyer of knowledge and realization"
+  },
+  {
+    "Verse": "3.43",
+    "Sanskrit Word": "दुरासदम्",
+    "English Meaning": "Difficult to conquer / formidable"
+  },
+  {
+    "Verse": "4.1",
+    "Sanskrit Word": "अव्ययम्",
+    "English Meaning": "Imperishable / eternal"
+  },
+  {
+    "Verse": "4.2",
+    "Sanskrit Word": "परम्परा",
+    "English Meaning": "Disciplic succession / lineage"
+  },
+  {
+    "Verse": "4.2",
+    "Sanskrit Word": "राजर्षयः",
+    "English Meaning": "Saintly kings"
+  },
+  {
+    "Verse": "4.3",
+    "Sanskrit Word": "रहस्यम्",
+    "English Meaning": "Secret / mystery"
+  },
+  {
+    "Verse": "4.6",
+    "Sanskrit Word": "अजः",
+    "English Meaning": "Unborn"
+  },
+  {
+    "Verse": "4.6",
+    "Sanskrit Word": "ईश्वरः",
+    "English Meaning": "The Lord / Controller"
+  },
+  {
+    "Verse": "4.6",
+    "Sanskrit Word": "सम्भवामि",
+    "English Meaning": "I manifest / I incarnate"
+  },
+  {
+    "Verse": "4.7",
+    "Sanskrit Word": "धर्मस्य",
+    "English Meaning": "Of righteousness / Dharma"
+  },
+  {
+    "Verse": "4.7",
+    "Sanskrit Word": "ग्लानिः",
+    "English Meaning": "Decline / decay"
+  },
+  {
+    "Verse": "4.7",
+    "Sanskrit Word": "अभ्युत्थानम्",
+    "English Meaning": "Rise / predominance"
+  },
+  {
+    "Verse": "4.8",
+    "Sanskrit Word": "परित्रणाय",
+    "English Meaning": "For the protection"
+  },
+  {
+    "Verse": "4.8",
+    "Sanskrit Word": "विनाशाय",
+    "English Meaning": "For the destruction"
+  },
+  {
+    "Verse": "4.8",
+    "Sanskrit Word": "युगे युगे",
+    "English Meaning": "Age after age"
+  },
+  {
+    "Verse": "4.9",
+    "Sanskrit Word": "दिव्यम्",
+    "English Meaning": "Divine / transcendental"
+  },
+  {
+    "Verse": "4.10",
+    "Sanskrit Word": "वीतरागभयक्रोधाः",
+    "English Meaning": "Free from attachment, fear, and anger"
+  },
+  {
+    "Verse": "4.11",
+    "Sanskrit Word": "प्रपद्यन्ते",
+    "English Meaning": "Surrender / approach"
+  },
+  {
+    "Verse": "4.13",
+    "Sanskrit Word": "चातुर्वर्ण्यम्",
+    "English Meaning": "The four-fold order of society"
+  },
+  {
+    "Verse": "4.17",
+    "Sanskrit Word": "विकर्मणः",
+    "English Meaning": "Of forbidden action"
+  },
+  {
+    "Verse": "4.18",
+    "Sanskrit Word": "पश्येत्",
+    "English Meaning": "One who sees"
+  },
+  {
+    "Verse": "4.19",
+    "Sanskrit Word": "ज्ञानग्निदग्धकर्माणम्",
+    "English Meaning": "One whose actions are burnt by the fire of knowledge"
+  },
+  {
+    "Verse": "4.22",
+    "Sanskrit Word": "यदृच्छालाभसन्तुष्टः",
+    "English Meaning": "Satisfied with whatever comes of its own accord"
+  },
+  {
+    "Verse": "4.22",
+    "Sanskrit Word": "द्वन्द्वातीतः",
+    "English Meaning": "Beyond the dualities (pleasure/pain, etc.)"
+  },
+  {
+    "Verse": "4.24",
+    "Sanskrit Word": "अर्पणम्",
+    "English Meaning": "The act of offering"
+  },
+  {
+    "Verse": "4.24",
+    "Sanskrit Word": "हविः",
+    "English Meaning": "Oblation / sacrifice"
+  },
+  {
+    "Verse": "4.28",
+    "Sanskrit Word": "स्वाध्याय",
+    "English Meaning": "Study of scriptures"
+  },
+  {
+    "Verse": "4.29",
+    "Sanskrit Word": "प्राणायाम",
+    "English Meaning": "Breath control"
+  },
+  {
+    "Verse": "4.33",
+    "Sanskrit Word": "अखिलम्",
+    "English Meaning": "Entire / whole"
+  },
+  {
+    "Verse": "4.34",
+    "Sanskrit Word": "प्रणिपातेन",
+    "English Meaning": "By prostrating / humble submission"
+  },
+  {
+    "Verse": "4.34",
+    "Sanskrit Word": "परिप्रश्नेन",
+    "English Meaning": "By inquiry"
+  },
+  {
+    "Verse": "4.34",
+    "Sanskrit Word": "तत्त्वदर्शिनः",
+    "English Meaning": "Seers of the truth"
+  },
+  {
+    "Verse": "4.36",
+    "Sanskrit Word": "वृजिनम्",
+    "English Meaning": "Sin / vice"
+  },
+  {
+    "Verse": "4.36",
+    "Sanskrit Word": "सन्तरिष्यसि",
+    "English Meaning": "You shall cross over"
+  },
+  {
+    "Verse": "4.37",
+    "Sanskrit Word": "भस्मसात्",
+    "English Meaning": "To ashes"
+  },
+  {
+    "Verse": "4.38",
+    "Sanskrit Word": "पवित्रम्",
+    "English Meaning": "Pure / sanctified"
+  },
+  {
+    "Verse": "4.39",
+    "Sanskrit Word": "श्रद्धावान्",
+    "English Meaning": "A person of faith"
+  },
+  {
+    "Verse": "4.39",
+    "Sanskrit Word": "अचिरेण",
+    "English Meaning": "Without delay / soon"
+  },
+  {
+    "Verse": "4.42",
+    "Sanskrit Word": "असिना",
+    "English Meaning": "With the sword"
+  },
+  {
+    "Verse": "5.1",
+    "Sanskrit Word": "संन्यासम्",
+    "English Meaning": "Renunciation / monkhood"
+  },
+  {
+    "Verse": "5.1",
+    "Sanskrit Word": "शंससि",
+    "English Meaning": "You praise / you extol"
+  },
+  {
+    "Verse": "5.2",
+    "Sanskrit Word": "निःश्रेयसकरौ",
+    "English Meaning": "Leading to supreme bliss"
+  },
+  {
+    "Verse": "5.2",
+    "Sanskrit Word": "विशिष्यते",
+    "English Meaning": "Is superior / is better"
+  },
+  {
+    "Verse": "5.3",
+    "Sanskrit Word": "निर्द्वन्द्वः",
+    "English Meaning": "Free from dualities (like likes/dislikes)"
+  },
+  {
+    "Verse": "5.3",
+    "Sanskrit Word": "प्रमुच्यते",
+    "English Meaning": "Is liberated / released"
+  },
+  {
+    "Verse": "5.4",
+    "Sanskrit Word": "सांख्ययोगौ",
+    "English Meaning": "Knowledge and Action (Yoga)"
+  },
+  {
+    "Verse": "5.4",
+    "Sanskrit Word": "बाला:",
+    "English Meaning": "The ignorant / children (in knowledge)"
+  },
+  {
+    "Verse": "5.6",
+    "Sanskrit Word": "अयोगतः",
+    "English Meaning": "Without Yoga (selfless action)"
+  },
+  {
+    "Verse": "5.7",
+    "Sanskrit Word": "विजितात्मा",
+    "English Meaning": "One who has conquered the self"
+  },
+  {
+    "Verse": "5.7",
+    "Sanskrit Word": "जितेन्द्रियः",
+    "English Meaning": "One who has conquered the senses"
+  },
+  {
+    "Verse": "5.8",
+    "Sanskrit Word": "स्पृशन्",
+    "English Meaning": "Touching"
+  },
+  {
+    "Verse": "5.8",
+    "Sanskrit Word": "जिघ्रन्",
+    "English Meaning": "Smelling"
+  },
+  {
+    "Verse": "5.8",
+    "Sanskrit Word": "स्वपन्",
+    "English Meaning": "Sleeping"
+  },
+  {
+    "Verse": "5.8",
+    "Sanskrit Word": "श्वसन",
+    "English Meaning": "Breathing"
+  },
+  {
+    "Verse": "5.10",
+    "Sanskrit Word": "पद्मपत्रम्",
+    "English Meaning": "Lotus leaf"
+  },
+  {
+    "Verse": "5.11",
+    "Sanskrit Word": "आत्मशुद्धये",
+    "English Meaning": "For the purification of the self"
+  },
+  {
+    "Verse": "5.12",
+    "Sanskrit Word": "नैष्ठिकीम्",
+    "English Meaning": "Everlasting / unwavering"
+  },
+  {
+    "Verse": "5.13",
+    "Sanskrit Word": "नवद्वारे पुरे",
+    "English Meaning": "In the city of nine gates (the body)"
+  },
+  {
+    "Verse": "5.15",
+    "Sanskrit Word": "विभुः",
+    "English Meaning": "The All-pervading Lord"
+  },
+  {
+    "Verse": "5.16",
+    "Sanskrit Word": "आदित्यवत्",
+    "English Meaning": "Like the sun"
+  },
+  {
+    "Verse": "5.18",
+    "Sanskrit Word": "श्वपाके",
+    "English Meaning": "An outcast / dog-eater"
+  },
+  {
+    "Verse": "5.18",
+    "Sanskrit Word": "समदर्शिनः",
+    "English Meaning": "Equal-sighted / seeing with equanimity"
+  },
+  {
+    "Verse": "5.21",
+    "Sanskrit Word": "अक्षयम्",
+    "English Meaning": "Imperishable / endless"
+  },
+  {
+    "Verse": "5.22",
+    "Sanskrit Word": "संस्पर्शजा:",
+    "English Meaning": "Born of contact (with sense objects)"
+  },
+  {
+    "Verse": "5.22",
+    "Sanskrit Word": "दुःखयोनयः",
+    "English Meaning": "Sources of misery"
+  },
+  {
+    "Verse": "5.23",
+    "Sanskrit Word": "सोढुम्",
+    "English Meaning": "To withstand / to endure"
+  },
+  {
+    "Verse": "5.24",
+    "Sanskrit Word": "अन्तःसुखः",
+    "English Meaning": "Happy within"
+  },
+  {
+    "Verse": "5.24",
+    "Sanskrit Word": "अन्तर्ज्योतिः",
+    "English Meaning": "Illumined within"
+  },
+  {
+    "Verse": "5.25",
+    "Sanskrit Word": "ऋषयः",
+    "English Meaning": "The Sages / Seers"
+  },
+  {
+    "Verse": "5.25",
+    "Sanskrit Word": "सर्वभूतहिते",
+    "English Meaning": "In the welfare of all beings"
+  },
+  {
+    "Verse": "5.27",
+    "Sanskrit Word": "भ्रवोर्मध्ये",
+    "English Meaning": "Between the eyebrows"
+  },
+  {
+    "Verse": "5.29",
+    "Sanskrit Word": "भोक्तारम्",
+    "English Meaning": "The enjoyer / recipient"
+  },
+  {
+    "Verse": "5.29",
+    "Sanskrit Word": "सुहृदम्",
+    "English Meaning": "Friend / well-wisher"
+  },
+  {
+    "Verse": "6.1",
+    "Sanskrit Word": "अनाश्रितः",
+    "English Meaning": "Without depending on / unattached"
+  },
+  {
+    "Verse": "6.1",
+    "Sanskrit Word": "कार्यम्",
+    "English Meaning": "Obligatory / duty"
+  },
+  {
+    "Verse": "6.1",
+    "Sanskrit Word": "निरग्निः",
+    "English Meaning": "One who does not maintain the ritual fire"
+  },
+  {
+    "Verse": "6.2",
+    "Sanskrit Word": "असंन्यस्तसङ्कल्पः",
+    "English Meaning": "Without renouncing selfish desires"
+  },
+  {
+    "Verse": "6.3",
+    "Sanskrit Word": "आरुरुक्षोः",
+    "English Meaning": "Who desires to climb (the ladder of Yoga)"
+  },
+  {
+    "Verse": "6.3",
+    "Sanskrit Word": "शमः",
+    "English Meaning": "Serenity / tranquility"
+  },
+  {
+    "Verse": "6.5",
+    "Sanskrit Word": "उद्धरेत्",
+    "English Meaning": "Should lift up / elevate"
+  },
+  {
+    "Verse": "6.5",
+    "Sanskrit Word": "अवसादयेत्",
+    "English Meaning": "Degrade / let sink"
+  },
+  {
+    "Verse": "6.5",
+    "Sanskrit Word": "बन्धुः",
+    "English Meaning": "Friend / kinsman"
+  },
+  {
+    "Verse": "6.5",
+    "Sanskrit Word": "रिपुः",
+    "English Meaning": "Enemy / foe"
+  },
+  {
+    "Verse": "6.7",
+    "Sanskrit Word": "शीतोष्णसुखदुःखेषु",
+    "English Meaning": "In cold, heat, pleasure, and pain"
+  },
+  {
+    "Verse": "6.7",
+    "Sanskrit Word": "मानापमानयोः",
+    "English Meaning": "In honor and dishonor"
+  },
+  {
+    "Verse": "6.8",
+    "Sanskrit Word": "कूटस्थः",
+    "English Meaning": "Unchanging / immovable"
+  },
+  {
+    "Verse": "6.8",
+    "Sanskrit Word": "लोष्ट्राश्मकाञ्चनः",
+    "English Meaning": "Regarding earth, stone, and gold as equal"
+  },
+  {
+    "Verse": "6.10",
+    "Sanskrit Word": "रहसि",
+    "English Meaning": "In solitude / in a secret place"
+  },
+  {
+    "Verse": "6.10",
+    "Sanskrit Word": "अपरिग्रहः",
+    "English Meaning": "Free from greed / non-possessive"
+  },
+  {
+    "Verse": "6.11",
+    "Sanskrit Word": "चैलाजिनकुशोत्तरम्",
+    "English Meaning": "Covered with cloth, deerskin, and kusha grass"
+  },
+  {
+    "Verse": "6.13",
+    "Sanskrit Word": "सम्प्रेक्ष्य नासिकाग्रम्",
+    "English Meaning": "Fixing the gaze on the tip of the nose"
+  },
+  {
+    "Verse": "6.14",
+    "Sanskrit Word": "ब्रह्मचारिव्रते",
+    "English Meaning": "In the vow of celibacy"
+  },
+  {
+    "Verse": "6.16",
+    "Sanskrit Word": "अतिस्वप्नशीलस्य",
+    "English Meaning": "Of one who sleeps too much"
+  },
+  {
+    "Verse": "6.17",
+    "Sanskrit Word": "युक्ताहारविहारस्य",
+    "English Meaning": "Of one who is temperate in food and recreation"
+  },
+  {
+    "Verse": "6.19",
+    "Sanskrit Word": "निवातस्थो",
+    "English Meaning": "In a windless place"
+  },
+  {
+    "Verse": "6.21",
+    "Sanskrit Word": "अतीन्द्रियम्",
+    "English Meaning": "Beyond the reach of the senses"
+  },
+  {
+    "Verse": "6.23",
+    "Sanskrit Word": "दुःखसंयोगवियोगम्",
+    "English Meaning": "Severance from the union with pain"
+  },
+  {
+    "Verse": "6.26",
+    "Sanskrit Word": "चञ्चलमस्थिरम्",
+    "English Meaning": "Restless and unsteady"
+  },
+  {
+    "Verse": "6.34",
+    "Sanskrit Word": "प्रमाथि",
+    "English Meaning": "Turbulent / agitating"
+  },
+  {
+    "Verse": "6.35",
+    "Sanskrit Word": "अभ्यासेन",
+    "English Meaning": "By practice"
+  },
+  {
+    "Verse": "6.35",
+    "Sanskrit Word": "वैराग्येण",
+    "English Meaning": "By detachment / dispassion"
+  },
+  {
+    "Verse": "6.38",
+    "Sanskrit Word": "छिन्नाभ्रमिव",
+    "English Meaning": "Like a scattered cloud"
+  },
+  {
+    "Verse": "6.40",
+    "Sanskrit Word": "दुर्गतिम्",
+    "English Meaning": "A bad end / woeful state"
+  },
+  {
+    "Verse": "6.41",
+    "Sanskrit Word": "शुचीनां श्रीमतां गेहे",
+    "English Meaning": "In the home of the pure and the prosperous"
+  },
+  {
+    "Verse": "6.44",
+    "Sanskrit Word": "जिज्ञासुः",
+    "English Meaning": "One who is inquisitive / a seeker"
+  },
+  {
+    "Verse": "7.1",
+    "Sanskrit Word": "मय्यासक्तमनाः",
+    "English Meaning": "With the mind intent on Me"
+  },
+  {
+    "Verse": "7.1",
+    "Sanskrit Word": "असंशयम्",
+    "English Meaning": "Without doubt"
+  },
+  {
+    "Verse": "7.1",
+    "Sanskrit Word": "समग्रम्",
+    "English Meaning": "In its entirety / completely"
+  },
+  {
+    "Verse": "7.2",
+    "Sanskrit Word": "सविज्ञानम्",
+    "English Meaning": "Including realized knowledge / wisdom"
+  },
+  {
+    "Verse": "7.2",
+    "Sanskrit Word": "अशेषत:",
+    "English Meaning": "Without omission / fully"
+  },
+  {
+    "Verse": "7.3",
+    "Sanskrit Word": "सहस्त्रेषु",
+    "English Meaning": "Among thousands"
+  },
+  {
+    "Verse": "7.3",
+    "Sanskrit Word": "सिद्धये",
+    "English Meaning": "For perfection"
+  },
+  {
+    "Verse": "7.3",
+    "Sanskrit Word": "तत्त्वतः",
+    "English Meaning": "In truth / in reality"
+  },
+  {
+    "Verse": "7.4",
+    "Sanskrit Word": "प्रकृतिरष्टधा",
+    "English Meaning": "Eight-fold nature"
+  },
+  {
+    "Verse": "7.4",
+    "Sanskrit Word": "अहंकारः",
+    "English Meaning": "Ego / I-consciousness"
+  },
+  {
+    "Verse": "7.5",
+    "Sanskrit Word": "अपरा",
+    "English Meaning": "Lower / inferior (nature)"
+  },
+  {
+    "Verse": "7.5",
+    "Sanskrit Word": "जीबभूताम्",
+    "English Meaning": "The life-force / the soul"
+  },
+  {
+    "Verse": "7.6",
+    "Sanskrit Word": "प्रभवः प्रलयस्तथा",
+    "English Meaning": "The source and the dissolution"
+  },
+  {
+    "Verse": "7.7",
+    "Sanskrit Word": "मयि सर्वमिदं प्रोतं",
+    "English Meaning": "All this is strung on Me"
+  },
+  {
+    "Verse": "7.7",
+    "Sanskrit Word": "सूत्रैमणिगणा इव",
+    "English Meaning": "Like pearls on a thread"
+  },
+  {
+    "Verse": "7.8",
+    "Sanskrit Word": "रसः",
+    "English Meaning": "Taste / essence"
+  },
+  {
+    "Verse": "7.8",
+    "Sanskrit Word": "प्रणवः",
+    "English Meaning": "The syllable OM"
+  },
+  {
+    "Verse": "7.10",
+    "Sanskrit Word": "बीजं",
+    "English Meaning": "The seed"
+  },
+  {
+    "Verse": "7.10",
+    "Sanskrit Word": "सनातनम्",
+    "English Meaning": "Eternal"
+  },
+  {
+    "Verse": "7.11",
+    "Sanskrit Word": "विवर्जितम्",
+    "English Meaning": "Devoid of / free from"
+  },
+  {
+    "Verse": "7.12",
+    "Sanskrit Word": "सात्त्विका राजसास्तमसाश्च",
+    "English Meaning": "The modes of goodness, passion, and ignorance"
+  },
+  {
+    "Verse": "7.14",
+    "Sanskrit Word": "दैवी ह्येषा गुणमयी",
+    "English Meaning": "This divine illusion (Maya) consisting of the three modes"
+  },
+  {
+    "Verse": "7.14",
+    "Sanskrit Word": "दुरत्यया",
+    "English Meaning": "Difficult to cross over / overcome"
+  },
+  {
+    "Verse": "7.15",
+    "Sanskrit Word": "मूढाः",
+    "English Meaning": "Deluded / foolish"
+  },
+  {
+    "Verse": "7.15",
+    "Sanskrit Word": "आसुरं भावम्",
+    "English Meaning": "Demoniac nature"
+  },
+  {
+    "Verse": "7.16",
+    "Sanskrit Word": "चतुर्विधा भजन्ते",
+    "English Meaning": "Four kinds of people worship"
+  },
+  {
+    "Verse": "7.16",
+    "Sanskrit Word": "आर्तः",
+    "English Meaning": "The distressed"
+  },
+  {
+    "Verse": "7.16",
+    "Sanskrit Word": "जिज्ञासुः",
+    "English Meaning": "The seeker of knowledge"
+  },
+  {
+    "Verse": "7.16",
+    "Sanskrit Word": "अर्थार्थी",
+    "English Meaning": "The seeker of wealth / material gain"
+  },
+  {
+    "Verse": "7.19",
+    "Sanskrit Word": "बहुनां जन्मनामन्ते",
+    "English Meaning": "After many births"
+  },
+  {
+    "Verse": "7.19",
+    "Sanskrit Word": "वासुदेवः सर्वमिति",
+    "English Meaning": "God is everything"
+  },
+  {
+    "Verse": "7.19",
+    "Sanskrit Word": "सुदुर्लभः",
+    "English Meaning": "Very rare"
+  },
+  {
+    "Verse": "7.23",
+    "Sanskrit Word": "अल्पमेधसाम्",
+    "English Meaning": "Of small intelligence"
+  },
+  {
+    "Verse": "7.25",
+    "Sanskrit Word": "योगमायासमावृतः",
+    "English Meaning": "Veiled by Yoga-maya (divine power)"
+  },
+  {
+    "Verse": "7.27",
+    "Sanskrit Word": "इच्छाद्वेषसमुत्थेन",
+    "English Meaning": "Arising from desire and hate"
+  },
+  {
+    "Verse": "7.29",
+    "Sanskrit Word": "जरामरणमोक्षाय",
+    "English Meaning": "For liberation from old age and death"
+  },
+  {
+    "Verse": "7.30",
+    "Sanskrit Word": "प्रयाणकालेऽपि",
+    "English Meaning": "Even at the time of death"
+  },
+  {
+    "Verse": "8.1",
+    "Sanskrit Word": "अध्यात्मम्",
+    "English Meaning": "The individual soul / nature of the self"
+  },
+  {
+    "Verse": "8.1",
+    "Sanskrit Word": "अधिभूतम्",
+    "English Meaning": "The physical manifestation / material world"
+  },
+  {
+    "Verse": "8.1",
+    "Sanskrit Word": "अधिदैवम्",
+    "English Meaning": "The divine underlying basis / presiding deities"
+  },
+  {
+    "Verse": "8.2",
+    "Sanskrit Word": "अधियज्ञः",
+    "English Meaning": "The Lord of sacrifice (residing in the body)"
+  },
+  {
+    "Verse": "8.2",
+    "Sanskrit Word": "प्रयाणकाले",
+    "English Meaning": "At the time of death / departure"
+  },
+  {
+    "Verse": "8.3",
+    "Sanskrit Word": "अक्षरम् ब्रह्म परमम्",
+    "English Meaning": "The Supreme Imperishable Brahman"
+  },
+  {
+    "Verse": "8.3",
+    "Sanskrit Word": "विर्सगः",
+    "English Meaning": "The creation / discharge (of force)"
+  },
+  {
+    "Verse": "8.4",
+    "Sanskrit Word": "क्षरः भावः",
+    "English Meaning": "The perishable nature / constantly changing state"
+  },
+  {
+    "Verse": "8.5",
+    "Sanskrit Word": "कलेवरम्",
+    "English Meaning": "The body / physical frame"
+  },
+  {
+    "Verse": "8.5",
+    "Sanskrit Word": "मद्भावम्",
+    "English Meaning": "My divine nature"
+  },
+  {
+    "Verse": "8.6",
+    "Sanskrit Word": "तद्भावभावितः",
+    "English Meaning": "Absorbed in that thought / state of being"
+  },
+  {
+    "Verse": "8.7",
+    "Sanskrit Word": "अनुस्मर",
+    "English Meaning": "Remember / meditate upon"
+  },
+  {
+    "Verse": "8.8",
+    "Sanskrit Word": "अभ्यासयोगयुक्तेन",
+    "English Meaning": "Engaged in the practice of Yoga"
+  },
+  {
+    "Verse": "8.9",
+    "Sanskrit Word": "कविम्",
+    "English Meaning": "The Omniscient / the Seer"
+  },
+  {
+    "Verse": "8.9",
+    "Sanskrit Word": "अणोरणीयांसम्",
+    "English Meaning": "Smaller than the smallest / subtler than the atom"
+  },
+  {
+    "Verse": "8.9",
+    "Sanskrit Word": "धातारम्",
+    "English Meaning": "The Sustainer / Support of everything"
+  },
+  {
+    "Verse": "8.11",
+    "Sanskrit Word": "ब्रह्मचर्यम्",
+    "English Meaning": "Vow of celibacy / spiritual discipline"
+  },
+  {
+    "Verse": "8.12",
+    "Sanskrit Word": "मूर्ध्न्याधायात्मनः प्राणम्",
+    "English Meaning": "Placing the life-breath in the head"
+  },
+  {
+    "Verse": "8.13",
+    "Sanskrit Word": "ओमित्येकाक्षरं ब्रह्म",
+    "English Meaning": "The single syllable OM, representing Brahman"
+  },
+  {
+    "Verse": "8.15",
+    "Sanskrit Word": "दुःखालयमशाश्वतम्",
+    "English Meaning": "A place of miseries and temporary nature"
+  },
+  {
+    "Verse": "8.16",
+    "Sanskrit Word": "आब्रह्मभुवनाल्लोकाः",
+    "English Meaning": "The worlds up to the realm of Brahma"
+  },
+  {
+    "Verse": "8.16",
+    "Sanskrit Word": "पुनरावर्तिनः",
+    "English Meaning": "Subject to return / rebirth"
+  },
+  {
+    "Verse": "8.17",
+    "Sanskrit Word": "सहस्त्रयुगपर्यन्तम्",
+    "English Meaning": "Lasting a thousand ages (Yugas)"
+  },
+  {
+    "Verse": "8.18",
+    "Sanskrit Word": "अव्यक्ताद्व्यक्तयः",
+    "English Meaning": "From the unmanifest to the manifest"
+  },
+  {
+    "Verse": "8.20",
+    "Sanskrit Word": "सनातनः",
+    "English Meaning": "Eternal / primeval"
+  },
+  {
+    "Verse": "8.21",
+    "Sanskrit Word": "परमां गतिम्",
+    "English Meaning": "The supreme goal / destination"
+  },
+  {
+    "Verse": "8.22",
+    "Sanskrit Word": "अनन्यया भक्त्या",
+    "English Meaning": "By unswerving / exclusive devotion"
+  },
+  {
+    "Verse": "8.24",
+    "Sanskrit Word": "शुक्लः",
+    "English Meaning": "The bright (fortnight) / path of light"
+  },
+  {
+    "Verse": "8.24",
+    "Sanskrit Word": "उत्तरायणम्",
+    "English Meaning": "The six months of the sun's northern course"
+  },
+  {
+    "Verse": "8.25",
+    "Sanskrit Word": "धूमः",
+    "English Meaning": "Smoke / path of darkness"
+  },
+  {
+    "Verse": "8.25",
+    "Sanskrit Word": "दक्षिणायनम्",
+    "English Meaning": "The sun's southern course"
+  },
+  {
+    "Verse": "8.26",
+    "Sanskrit Word": "शुक्लकृष्णे गती",
+    "English Meaning": "The paths of light and darkness"
+  },
+  {
+    "Verse": "8.28",
+    "Sanskrit Word": "अत्येति",
+    "English Meaning": "Goes beyond / transcends"
+  },
+  {
+    "Verse": "9.1",
+    "Sanskrit Word": "गुह्यतमम्",
+    "English Meaning": "Most secret / most confidential"
+  },
+  {
+    "Verse": "9.2",
+    "Sanskrit Word": "राजविद्या",
+    "English Meaning": "The king of sciences / sovereign knowledge"
+  },
+  {
+    "Verse": "9.2",
+    "Sanskrit Word": "राजगुह्यम्",
+    "English Meaning": "The king of secrets / sovereign mystery"
+  },
+  {
+    "Verse": "9.2",
+    "Sanskrit Word": "प्रत्यक्षावगमम्",
+    "English Meaning": "Perceived by direct experience"
+  },
+  {
+    "Verse": "9.2",
+    "Sanskrit Word": "सुसुखम्",
+    "English Meaning": "Very easy / joyful"
+  },
+  {
+    "Verse": "9.4",
+    "Sanskrit Word": "अव्यक्तमूर्तिना",
+    "English Meaning": "By My unmanifested form"
+  },
+  {
+    "Verse": "9.4",
+    "Sanskrit Word": "मत्स्थानि",
+    "English Meaning": "Dwell in Me / reside in Me"
+  },
+  {
+    "Verse": "9.5",
+    "Sanskrit Word": "योगमैश्वरम्",
+    "English Meaning": "Divine mystic power"
+  },
+  {
+    "Verse": "9.6",
+    "Sanskrit Word": "आकाशस्थितो",
+    "English Meaning": "Resting in the sky / space"
+  },
+  {
+    "Verse": "9.7",
+    "Sanskrit Word": "कल्पक्षये",
+    "English Meaning": "At the end of a cycle (Kalpa)"
+  },
+  {
+    "Verse": "9.8",
+    "Sanskrit Word": "प्रकृतिं स्वामवष्टभ्य",
+    "English Meaning": "Presiding over My own material nature"
+  },
+  {
+    "Verse": "9.10",
+    "Sanskrit Word": "मयाध्यक्षेण",
+    "English Meaning": "Under My supervision / direction"
+  },
+  {
+    "Verse": "9.11",
+    "Sanskrit Word": "मानुषीं तनुमाश्रितम्",
+    "English Meaning": "Descending in a human form"
+  },
+  {
+    "Verse": "9.12",
+    "Sanskrit Word": "मोघाशा मोघकर्माणो",
+    "English Meaning": "Of vain hopes and vain actions"
+  },
+  {
+    "Verse": "9.13",
+    "Sanskrit Word": "महात्मानस्तु",
+    "English Meaning": "But the great souls"
+  },
+  {
+    "Verse": "9.13",
+    "Sanskrit Word": "दैवीं प्रकृतिमाश्रिताः",
+    "English Meaning": "Taking refuge in the divine nature"
+  },
+  {
+    "Verse": "9.14",
+    "Sanskrit Word": "सततं कीर्तयन्तो",
+    "English Meaning": "Always chanting / glorifying"
+  },
+  {
+    "Verse": "9.15",
+    "Sanskrit Word": "ज्ञानयज्ञेन",
+    "English Meaning": "By the sacrifice of knowledge"
+  },
+  {
+    "Verse": "9.15",
+    "Sanskrit Word": "विश्वतोमुखम्",
+    "English Meaning": "Facing all sides / the cosmic form"
+  },
+  {
+    "Verse": "9.18",
+    "Sanskrit Word": "साक्षी",
+    "English Meaning": "The Witness"
+  },
+  {
+    "Verse": "9.18",
+    "Sanskrit Word": "निधानम्",
+    "English Meaning": "The treasure / the resting place"
+  },
+  {
+    "Verse": "9.19",
+    "Sanskrit Word": "सदसच्चाहम्",
+    "English Meaning": "I am both being and non-being"
+  },
+  {
+    "Verse": "9.20",
+    "Sanskrit Word": "सोमपाः",
+    "English Meaning": "Drinkers of the Soma juice"
+  },
+  {
+    "Verse": "9.21",
+    "Sanskrit Word": "क्षीणे पुण्ये मर्त्यलोकं विशन्ति",
+    "English Meaning": "When merit is exhausted, they re-enter the world of mortals"
+  },
+  {
+    "Verse": "9.22",
+    "Sanskrit Word": "योगक्षेमं वहाम्यहम्",
+    "English Meaning": "I carry / provide what they lack and protect what they have"
+  },
+  {
+    "Verse": "9.23",
+    "Sanskrit Word": "अविधिपूर्वकम्",
+    "English Meaning": "In a wrong / unauthorized way"
+  },
+  {
+    "Verse": "9.25",
+    "Sanskrit Word": "पितृन्यान्ति पितृव्रताः",
+    "English Meaning": "Worshippers of ancestors go to the ancestors"
+  },
+  {
+    "Verse": "9.26",
+    "Sanskrit Word": "पत्रं पुष्पं फलं तोयम्",
+    "English Meaning": "A leaf, a flower, a fruit, or water"
+  },
+  {
+    "Verse": "9.26",
+    "Sanskrit Word": "भक्त्या",
+    "English Meaning": "With devotion"
+  },
+  {
+    "Verse": "9.29",
+    "Sanskrit Word": "समोऽहं सर्वभूतेषु",
+    "English Meaning": "I am equal toward all beings"
+  },
+  {
+    "Verse": "9.30",
+    "Sanskrit Word": "सुदुराचारो",
+    "English Meaning": "Even if a person of highly improper conduct"
+  },
+  {
+    "Verse": "9.31",
+    "Sanskrit Word": "न मे भक्तः प्रणश्यति",
+    "English Meaning": "My devotee never perishes"
+  },
+  {
+    "Verse": "9.32",
+    "Sanskrit Word": "पापयोनयः",
+    "English Meaning": "Of low origin / born of sin"
+  },
+  {
+    "Verse": "9.33",
+    "Sanskrit Word": "अनित्यमसुखं लोकम्",
+    "English Meaning": "This transient and joyless world"
+  },
+  {
+    "Verse": "9.34",
+    "Sanskrit Word": "मन्मना भव मद्भक्तो",
+    "English Meaning": "Fix your mind on Me, be My devotee"
+  },
+  {
+    "Verse": "9.34",
+    "Sanskrit Word": "नमस्कुरु",
+    "English Meaning": "Bow down / prostrate to Me"
+  },
+  {
+    "Verse": "10.1",
+    "Sanskrit Word": "भूयः",
+    "English Meaning": "Again / once more"
+  },
+  {
+    "Verse": "10.1",
+    "Sanskrit Word": "परमं वचः",
+    "English Meaning": "Supreme word / highest instruction"
+  },
+  {
+    "Verse": "10.1",
+    "Sanskrit Word": "हितकाम्यया",
+    "English Meaning": "Out of desire for your welfare"
+  },
+  {
+    "Verse": "10.2",
+    "Sanskrit Word": "आदिः",
+    "English Meaning": "The source / origin"
+  },
+  {
+    "Verse": "10.3",
+    "Sanskrit Word": "अजम्",
+    "English Meaning": "Unborn"
+  },
+  {
+    "Verse": "10.3",
+    "Sanskrit Word": "अनादिम्",
+    "English Meaning": "Beginningless"
+  },
+  {
+    "Verse": "10.3",
+    "Sanskrit Word": "लोकमहेश्वरम्",
+    "English Meaning": "Supreme Lord of the worlds"
+  },
+  {
+    "Verse": "10.4",
+    "Sanskrit Word": "असम्मोहः",
+    "English Meaning": "Freedom from delusion"
+  },
+  {
+    "Verse": "10.4",
+    "Sanskrit Word": "क्षमा",
+    "English Meaning": "Forgiveness / tolerance"
+  },
+  {
+    "Verse": "10.4",
+    "Sanskrit Word": "दमः",
+    "English Meaning": "Control of the senses"
+  },
+  {
+    "Verse": "10.4",
+    "Sanskrit Word": "शमः",
+    "English Meaning": "Control of the mind"
+  },
+  {
+    "Verse": "10.5",
+    "Sanskrit Word": "अहिंसा",
+    "English Meaning": "Non-violence"
+  },
+  {
+    "Verse": "10.5",
+    "Sanskrit Word": "समता",
+    "English Meaning": "Equanimity"
+  },
+  {
+    "Verse": "10.5",
+    "Sanskrit Word": "तुष्टिः",
+    "English Meaning": "Contentment"
+  },
+  {
+    "Verse": "10.7",
+    "Sanskrit Word": "विभूतिम्",
+    "English Meaning": "Divine opulence / glory"
+  },
+  {
+    "Verse": "10.8",
+    "Sanskrit Word": "प्रभवः",
+    "English Meaning": "The source of generation"
+  },
+  {
+    "Verse": "10.9",
+    "Sanskrit Word": "मच्चित्ताः",
+    "English Meaning": "Mind fixed on Me"
+  },
+  {
+    "Verse": "10.9",
+    "Sanskrit Word": "मद्गतप्राणा",
+    "English Meaning": "Lives surrendered to Me"
+  },
+  {
+    "Verse": "10.9",
+    "Sanskrit Word": "बोधयन्तः",
+    "English Meaning": "Enlightening / instructing"
+  },
+  {
+    "Verse": "10.10",
+    "Sanskrit Word": "बुद्धियोगम्",
+    "English Meaning": "The yoga of discrimination / wisdom"
+  },
+  {
+    "Verse": "10.11",
+    "Sanskrit Word": "अज्ञानजं तमः",
+    "English Meaning": "Darkness born of ignorance"
+  },
+  {
+    "Verse": "10.11",
+    "Sanskrit Word": "ज्ञानदीपेन",
+    "English Meaning": "With the lamp of knowledge"
+  },
+  {
+    "Verse": "10.12",
+    "Sanskrit Word": "परं ब्रह्म",
+    "English Meaning": "The Supreme Brahman"
+  },
+  {
+    "Verse": "10.12",
+    "Sanskrit Word": "परं धाम",
+    "English Meaning": "The Supreme Abode"
+  },
+  {
+    "Verse": "10.17",
+    "Sanskrit Word": "परिचिन्तयन्",
+    "English Meaning": "Contemplating / meditating"
+  },
+  {
+    "Verse": "10.20",
+    "Sanskrit Word": "गुडाकेश",
+    "English Meaning": "Conqueror of sleep (Arjuna)"
+  },
+  {
+    "Verse": "10.21",
+    "Sanskrit Word": "ज्योतिषां रविः",
+    "English Meaning": "The Sun among radiant objects"
+  },
+  {
+    "Verse": "10.21",
+    "Sanskrit Word": "नक्षत्राणां शशी",
+    "English Meaning": "The Moon among the stars"
+  },
+  {
+    "Verse": "10.22",
+    "Sanskrit Word": "वेदानां सामवेदो",
+    "English Meaning": "The Sama Veda among the Vedas"
+  },
+  {
+    "Verse": "10.22",
+    "Sanskrit Word": "चेतना",
+    "English Meaning": "Consciousness"
+  },
+  {
+    "Verse": "10.23",
+    "Sanskrit Word": "रुद्राणां शङ्करः",
+    "English Meaning": "Shankara among the Rudras"
+  },
+  {
+    "Verse": "10.24",
+    "Sanskrit Word": "सरसामस्मि सागरः",
+    "English Meaning": "Among reservoirs of water, I am the ocean"
+  },
+  {
+    "Verse": "10.25",
+    "Sanskrit Word": "यज्ञानां जपयज्ञो",
+    "English Meaning": "Among sacrifices, I am the chanting of holy names"
+  },
+  {
+    "Verse": "10.26",
+    "Sanskrit Word": "अश्वत्थः",
+    "English Meaning": "The Peepal tree / sacred fig"
+  },
+  {
+    "Verse": "10.28",
+    "Sanskrit Word": "वज्रम्",
+    "English Meaning": "Thunderbolt"
+  },
+  {
+    "Verse": "10.30",
+    "Sanskrit Word": "कालः कलयतामहम्",
+    "English Meaning": "Among subduers, I am Time"
+  },
+  {
+    "Verse": "10.31",
+    "Sanskrit Word": "स्रोतसामस्मि जाह्नवी",
+    "English Meaning": "Among rivers, I am the Ganges"
+  },
+  {
+    "Verse": "10.32",
+    "Sanskrit Word": "अध्यात्मविद्या",
+    "English Meaning": "Spiritual science / knowledge of the Self"
+  },
+  {
+    "Verse": "10.33",
+    "Sanskrit Word": "अक्षराणामकारोऽस्मि",
+    "English Meaning": "Among letters, I am the letter 'A'"
+  },
+  {
+    "Verse": "10.34",
+    "Sanskrit Word": "मृत्युः सर्वहरः",
+    "English Meaning": "All-devouring Death"
+  },
+  {
+    "Verse": "10.36",
+    "Sanskrit Word": "द्यूतं छलयतामस्मि",
+    "English Meaning": "I am the gambling of the cheat"
+  },
+  {
+    "Verse": "10.38",
+    "Sanskrit Word": "मौनं चैवास्मि गुह्यानाम्",
+    "English Meaning": "Among secrets, I am silence"
+  },
+  {
+    "Verse": "10.41",
+    "Sanskrit Word": "मम तेजोंऽशसम्भवम्",
+    "English Meaning": "Born of a mere spark of My splendor"
+  },
+  {
+    "Verse": "11.1",
+    "Sanskrit Word": "मदनुग्रहाय",
+    "English Meaning": "Out of compassion for me"
+  },
+  {
+    "Verse": "11.1",
+    "Sanskrit Word": "अध्यात्मसञ्ज्ञितम्",
+    "English Meaning": "Known as the supreme spiritual secret"
+  },
+  {
+    "Verse": "11.1",
+    "Sanskrit Word": "मोहः",
+    "English Meaning": "Delusion / confusion"
+  },
+  {
+    "Verse": "11.2",
+    "Sanskrit Word": "भवाप्ययौ",
+    "English Meaning": "Creation and dissolution"
+  },
+  {
+    "Verse": "11.2",
+    "Sanskrit Word": "कमलपत्राक्ष",
+    "English Meaning": "O lotus-eyed one (Krishna)"
+  },
+  {
+    "Verse": "11.3",
+    "Sanskrit Word": "द्रष्टुमिच्छामि",
+    "English Meaning": "I wish to see"
+  },
+  {
+    "Verse": "11.3",
+    "Sanskrit Word": "रुपमैश्वरम्",
+    "English Meaning": "Divine / sovereign form"
+  },
+  {
+    "Verse": "11.4",
+    "Sanskrit Word": "योगेश्वर",
+    "English Meaning": "O Lord of all mystic powers"
+  },
+  {
+    "Verse": "11.5",
+    "Sanskrit Word": "नानावर्णकृतीनि",
+    "English Meaning": "Of various colors and shapes"
+  },
+  {
+    "Verse": "11.6",
+    "Sanskrit Word": "आदित्यान् वसून् रुद्रान्",
+    "English Meaning": "Adityas, Vasus, and Rudras (celestial beings)"
+  },
+  {
+    "Verse": "11.7",
+    "Sanskrit Word": "सचरअचरम्",
+    "English Meaning": "The moving and the non-moving"
+  },
+  {
+    "Verse": "11.8",
+    "Sanskrit Word": "दिव्यं ददामि ते चक्षुः",
+    "English Meaning": "I give you divine sight / eyes"
+  },
+  {
+    "Verse": "11.10",
+    "Sanskrit Word": "अनेकवक्त्रनयनम्",
+    "English Meaning": "Of many mouths and eyes"
+  },
+  {
+    "Verse": "11.10",
+    "Sanskrit Word": "दिव्याभरणम्",
+    "English Meaning": "Divine ornaments"
+  },
+  {
+    "Verse": "11.12",
+    "Sanskrit Word": "सूर्यसहस्रस्य",
+    "English Meaning": "Of a thousand suns"
+  },
+  {
+    "Verse": "11.12",
+    "Sanskrit Word": "भाः सदृशी",
+    "English Meaning": "Splendor similar to / like"
+  },
+  {
+    "Verse": "11.14",
+    "Sanskrit Word": "हृष्टरोमा",
+    "English Meaning": "Hair standing on end (due to awe/ecstasy)"
+  },
+  {
+    "Verse": "11.14",
+    "Sanskrit Word": "कृताञ्जलिः",
+    "English Meaning": "With folded hands"
+  },
+  {
+    "Verse": "11.17",
+    "Sanskrit Word": "किरीटिनं गदिनं चक्रिणम्",
+    "English Meaning": "Wearing a crown, mace, and discus"
+  },
+  {
+    "Verse": "11.17",
+    "Sanskrit Word": "अप्रमेयम्",
+    "English Meaning": "Immeasurable / incomprehensible"
+  },
+  {
+    "Verse": "11.18",
+    "Sanskrit Word": "अव्ययः शाश्वतधर्मगोप्ता",
+    "English Meaning": "The imperishable protector of eternal Dharma"
+  },
+  {
+    "Verse": "11.20",
+    "Sanskrit Word": "द्यावापृथिव्योरिदमन्तरम्",
+    "English Meaning": "The space between heaven and earth"
+  },
+  {
+    "Verse": "11.20",
+    "Sanskrit Word": "रुपमुग्रम्",
+    "English Meaning": "Terrible / fierce form"
+  },
+  {
+    "Verse": "11.24",
+    "Sanskrit Word": "नभःस्पृशं दीप्तम्",
+    "English Meaning": "Touching the sky, glowing"
+  },
+  {
+    "Verse": "11.25",
+    "Sanskrit Word": "दंष्ट्राकरालानि",
+    "English Meaning": "Terrifying with tusks / teeth"
+  },
+  {
+    "Verse": "11.25",
+    "Sanskrit Word": "कालानलसन्निभानि",
+    "English Meaning": "Blazing like the fire of time / dissolution"
+  },
+  {
+    "Verse": "11.28",
+    "Sanskrit Word": "नदीनां बहवोऽम्बुवेगाः",
+    "English Meaning": "Many currents of rivers"
+  },
+  {
+    "Verse": "11.30",
+    "Sanskrit Word": "लेलिह्यसे ग्रसमानः",
+    "English Meaning": "Swallowing and licking from all sides"
+  },
+  {
+    "Verse": "11.32",
+    "Sanskrit Word": "कालोऽस्मि लोकक्षयकृत्",
+    "English Meaning": "I am Time, the destroyer of worlds"
+  },
+  {
+    "Verse": "11.33",
+    "Sanskrit Word": "निमित्तमात्रं भव",
+    "English Meaning": "Be but an instrument"
+  },
+  {
+    "Verse": "11.33",
+    "Sanskrit Word": "सव्यसाचिन्",
+    "English Meaning": "Ambidextrous archer (Arjuna)"
+  },
+  {
+    "Verse": "11.39",
+    "Sanskrit Word": "प्रपितामहश्च",
+    "English Meaning": "The great-grandfather (source of Brahma)"
+  },
+  {
+    "Verse": "11.40",
+    "Sanskrit Word": "नमः पुरस्तादथ पृष्ठतस्ते",
+    "English Meaning": "Salutations to You from the front and the back"
+  },
+  {
+    "Verse": "11.40",
+    "Sanskrit Word": "अनन्तवीर्यामितविक्रमस्त्वम्",
+    "English Meaning": "You are of infinite power and boundless might"
+  },
+  {
+    "Verse": "11.44",
+    "Sanskrit Word": "प्रणिधाय कायम्",
+    "English Meaning": "Prostrating the body"
+  },
+  {
+    "Verse": "11.46",
+    "Sanskrit Word": "चतुर्भुजेन",
+    "English Meaning": "Four-armed (form)"
+  },
+  {
+    "Verse": "11.50",
+    "Sanskrit Word": "सौम्यवपुः",
+    "English Meaning": "Gentle / graceful form"
+  },
+  {
+    "Verse": "11.54",
+    "Sanskrit Word": "भक्त्या त्वनन्यया शक्यः",
+    "English Meaning": "Possible only through undivided devotion"
+  },
+  {
+    "Verse": "11.55",
+    "Sanskrit Word": "मत्कर्मकृन्मत्परमो",
+    "English Meaning": "Working for Me, making Me the supreme goal"
+  },
+  {
+    "Verse": "11.55",
+    "Sanskrit Word": "निर्वैरः सर्वभूतेषु",
+    "English Meaning": "Without enmity toward any being"
+  },
+  {
+    "Verse": "12.1",
+    "Sanskrit Word": "सततयुक्ताः",
+    "English Meaning": "Always steadfast / ever-engaged"
+  },
+  {
+    "Verse": "12.1",
+    "Sanskrit Word": "पर्युपासते",
+    "English Meaning": "Worship / meditate upon"
+  },
+  {
+    "Verse": "12.1",
+    "Sanskrit Word": "अक्षरमव्यक्तम्",
+    "English Meaning": "The imperishable unmanifest"
+  },
+  {
+    "Verse": "12.2",
+    "Sanskrit Word": "मय्यावेश्य मनः",
+    "English Meaning": "Fixing the mind on Me"
+  },
+  {
+    "Verse": "12.2",
+    "Sanskrit Word": "श्रद्धया परयोपेताः",
+    "English Meaning": "Endowed with supreme faith"
+  },
+  {
+    "Verse": "12.3",
+    "Sanskrit Word": "अनिर्देश्यम्",
+    "English Meaning": "Indefinable / inexplicable"
+  },
+  {
+    "Verse": "12.3",
+    "Sanskrit Word": "अचिन्त्यम्",
+    "English Meaning": "Inconceivable / unthinkable"
+  },
+  {
+    "Verse": "12.3",
+    "Sanskrit Word": "कूटस्थम्",
+    "English Meaning": "Unchanging / immutable"
+  },
+  {
+    "Verse": "12.4",
+    "Sanskrit Word": "सन्नियम्येन्द्रियग्रामम्",
+    "English Meaning": "Restraining the group of senses"
+  },
+  {
+    "Verse": "12.4",
+    "Sanskrit Word": "सर्वभूतहिते रताः",
+    "English Meaning": "Engaged in the welfare of all beings"
+  },
+  {
+    "Verse": "12.5",
+    "Sanskrit Word": "क्लेशोऽधिकतरः",
+    "English Meaning": "Greater is the trouble / difficulty"
+  },
+  {
+    "Verse": "12.5",
+    "Sanskrit Word": "अव्यक्तासक्तचेतसाम्",
+    "English Meaning": "For those whose minds are attached to the unmanifest"
+  },
+  {
+    "Verse": "12.6",
+    "Sanskrit Word": "अनन्येनैव योगेन",
+    "English Meaning": "With single-minded / exclusive devotion"
+  },
+  {
+    "Verse": "12.7",
+    "Sanskrit Word": "समुद्धर्ता",
+    "English Meaning": "The deliverer / savior"
+  },
+  {
+    "Verse": "12.7",
+    "Sanskrit Word": "मृत्युसंसारसागरात्",
+    "English Meaning": "From the ocean of the world of death"
+  },
+  {
+    "Verse": "12.8",
+    "Sanskrit Word": "मय्येव मन आधत्स्व",
+    "English Meaning": "Fix your mind on Me alone"
+  },
+  {
+    "Verse": "12.8",
+    "Sanskrit Word": "मयि बुद्धिं निवेशय",
+    "English Meaning": "Place your intellect in Me"
+  },
+  {
+    "Verse": "12.9",
+    "Sanskrit Word": "अभ्यासयोगेन",
+    "English Meaning": "By the yoga of constant practice"
+  },
+  {
+    "Verse": "12.10",
+    "Sanskrit Word": "मदर्थमपि कर्माणि",
+    "English Meaning": "Performing actions for My sake"
+  },
+  {
+    "Verse": "12.11",
+    "Sanskrit Word": "सर्वकर्मफलत्यागम्",
+    "English Meaning": "Renunciation of the fruits of all actions"
+  },
+  {
+    "Verse": "12.12",
+    "Sanskrit Word": "श्रेयो हि ज्ञानमभ्यासात्",
+    "English Meaning": "Knowledge is indeed better than practice"
+  },
+  {
+    "Verse": "12.12",
+    "Sanskrit Word": "त्यागाच्छान्तिरनन्तरम्",
+    "English Meaning": "Peace immediately follows renunciation"
+  },
+  {
+    "Verse": "12.13",
+    "Sanskrit Word": "अद्वेष्टा सर्वभूतानाम्",
+    "English Meaning": "Non-envious / hater of no being"
+  },
+  {
+    "Verse": "12.13",
+    "Sanskrit Word": "निर्ममो निरहङ्कारः",
+    "English Meaning": "Free from possessiveness and ego"
+  },
+  {
+    "Verse": "12.15",
+    "Sanskrit Word": "हर्षामर्षभयोद्वेगैः",
+    "English Meaning": "By joy, envy, fear, and anxiety"
+  },
+  {
+    "Verse": "12.16",
+    "Sanskrit Word": "अनपेक्षः शुचिर्दक्ष",
+    "English Meaning": "One who is desireless, pure, and expert"
+  },
+  {
+    "Verse": "12.16",
+    "Sanskrit Word": "सर्वारम्भपरित्यागी",
+    "English Meaning": "Renouncer of all new undertakings"
+  },
+  {
+    "Verse": "12.17",
+    "Sanskrit Word": "यो न हृष्यति न द्वेष्टि",
+    "English Meaning": "Who neither rejoices nor hates"
+  },
+  {
+    "Verse": "12.17",
+    "Sanskrit Word": "न शोचति न काङ्क्षति",
+    "English Meaning": "Who neither grieves nor desires"
+  },
+  {
+    "Verse": "12.18",
+    "Sanskrit Word": "मानापमानयोस्तुल्यः",
+    "English Meaning": "Equal in honor and dishonor"
+  },
+  {
+    "Verse": "12.19",
+    "Sanskrit Word": "तुल्यनिन्दास्तुतिः",
+    "English Meaning": "Silent / alike in praise and blame"
+  },
+  {
+    "Verse": "12.19",
+    "Sanskrit Word": "अनिकेतः स्थिरमतिः",
+    "English Meaning": "Homeless (unattached) and steady-minded"
+  },
+  {
+    "Verse": "12.20",
+    "Sanskrit Word": "धर्म्यामृतमिदम्",
+    "English Meaning": "This immortal nectar of Dharma"
+  },
+  {
+    "Verse": "13.1",
+    "Sanskrit Word": "शरीरम्",
+    "English Meaning": "The body"
+  },
+  {
+    "Verse": "13.1",
+    "Sanskrit Word": "क्षेत्रम्",
+    "English Meaning": "The field (of activities)"
+  },
+  {
+    "Verse": "13.1",
+    "Sanskrit Word": "क्षेत्रज्ञः",
+    "English Meaning": "The knower of the field"
+  },
+  {
+    "Verse": "13.2",
+    "Sanskrit Word": "सर्वक्षेत्रेषु",
+    "English Meaning": "In all fields (bodies)"
+  },
+  {
+    "Verse": "13.4",
+    "Sanskrit Word": "ऋषिभिर्बहुधा गीतम्",
+    "English Meaning": "Sung by the sages in many ways"
+  },
+  {
+    "Verse": "13.4",
+    "Sanskrit Word": "ब्रह्मसूत्रपदैश्चैव",
+    "English Meaning": "In the verses of the Brahma-sutra"
+  },
+  {
+    "Verse": "13.5",
+    "Sanskrit Word": "महाभूतान्यहङ्कारो",
+    "English Meaning": "Great elements and the ego"
+  },
+  {
+    "Verse": "13.5",
+    "Sanskrit Word": "अव्यक्तमेव च",
+    "English Meaning": "And the unmanifested (primordial matter)"
+  },
+  {
+    "Verse": "13.6",
+    "Sanskrit Word": "इच्छा द्वेषः सुखं दुःखम्",
+    "English Meaning": "Desire, hatred, pleasure, and pain"
+  },
+  {
+    "Verse": "13.6",
+    "Sanskrit Word": "सङ्घातश्चेतना धृतिः",
+    "English Meaning": "The aggregate (body), consciousness, and fortitude"
+  },
+  {
+    "Verse": "13.8",
+    "Sanskrit Word": "अमानित्वमदम्भित्वम्",
+    "English Meaning": "Humility and pride-lessness"
+  },
+  {
+    "Verse": "13.8",
+    "Sanskrit Word": "अहिंसा क्षान्तिरार्जवम्",
+    "English Meaning": "Non-violence, tolerance, and simplicity"
+  },
+  {
+    "Verse": "13.8",
+    "Sanskrit Word": "आचार्योपासनम्",
+    "English Meaning": "Service to the teacher"
+  },
+  {
+    "Verse": "13.8",
+    "Sanskrit Word": "शौचं स्थैर्यमात्मविनिग्रहः",
+    "English Meaning": "Purity, steadfastness, and self-control"
+  },
+  {
+    "Verse": "13.9",
+    "Sanskrit Word": "इन्द्रियार्थेषु वैराग्यम्",
+    "English Meaning": "Dispassion toward sense-objects"
+  },
+  {
+    "Verse": "13.9",
+    "Sanskrit Word": "अनहङ्कार एव च",
+    "English Meaning": "And absence of ego"
+  },
+  {
+    "Verse": "13.10",
+    "Sanskrit Word": "असक्तिरनभिष्वङ्गः",
+    "English Meaning": "Detachment and absence of clinging"
+  },
+  {
+    "Verse": "13.11",
+    "Sanskrit Word": "विविक्तदेशसेवित्वम्",
+    "English Meaning": "Resorting to solitary places"
+  },
+  {
+    "Verse": "13.13",
+    "Sanskrit Word": "सर्वतः पाणिपादम्",
+    "English Meaning": "With hands and feet everywhere"
+  },
+  {
+    "Verse": "13.14",
+    "Sanskrit Word": "निर्गुणं गुणभोक्तृ च",
+    "English Meaning": "Devoid of qualities, yet the enjoyer of qualities"
+  },
+  {
+    "Verse": "13.15",
+    "Sanskrit Word": "बहिरन्तश्च भूतानाम्",
+    "English Meaning": "Outside and inside all beings"
+  },
+  {
+    "Verse": "13.15",
+    "Sanskrit Word": "सूक्ष्मत्वात्तदविज्ञयम्",
+    "English Meaning": "Incomprehensible due to its subtlety"
+  },
+  {
+    "Verse": "13.16",
+    "Sanskrit Word": "अविभक्तं च भूतेषु",
+    "English Meaning": "Undivided, yet appearing divided in beings"
+  },
+  {
+    "Verse": "13.17",
+    "Sanskrit Word": "ज्योतिषामपि तज्ज्योतिः",
+    "English Meaning": "The light of all lights"
+  },
+  {
+    "Verse": "13.19",
+    "Sanskrit Word": "प्रकृतिं पुरुषं चैव",
+    "English Meaning": "Material nature and the individual soul"
+  },
+  {
+    "Verse": "13.20",
+    "Sanskrit Word": "कार्यकारणकर्तृत्वे",
+    "English Meaning": "In the matter of cause and effect"
+  },
+  {
+    "Verse": "13.21",
+    "Sanskrit Word": "प्रकृतिस्थान्गुणान्",
+    "English Meaning": "Qualities born of material nature"
+  },
+  {
+    "Verse": "13.22",
+    "Sanskrit Word": "उपद्रष्टानुमन्ता च",
+    "English Meaning": "The Observer and the Permitter"
+  },
+  {
+    "Verse": "13.24",
+    "Sanskrit Word": "ध्यानेनात्मनि पश्यन्ति",
+    "English Meaning": "Perceive the Self within through meditation"
+  },
+  {
+    "Verse": "13.27",
+    "Sanskrit Word": "समं सर्वेषु भूतेषु",
+    "English Meaning": "Equally present in all beings"
+  },
+  {
+    "Verse": "13.31",
+    "Sanskrit Word": "शरीरस्थोऽपि न करोति",
+    "English Meaning": "Though dwelling in the body, it does not act"
+  },
+  {
+    "Verse": "13.33",
+    "Sanskrit Word": "यथा प्रकाशयत्येकः",
+    "English Meaning": "Just as the one sun illumines"
+  },
+  {
+    "Verse": "13.34",
+    "Sanskrit Word": "ज्ञानचक्षुषा",
+    "English Meaning": "With the eye of knowledge"
+  },
+  {
+    "Verse": "14.1",
+    "Sanskrit Word": "परं भूयः प्रवक्ष्यामि",
+    "English Meaning": "I shall again declare the supreme (knowledge)"
+  },
+  {
+    "Verse": "14.1",
+    "Sanskrit Word": "ज्ञानानां ज्ञानमुत्तमम्",
+    "English Meaning": "The best of all knowledge"
+  },
+  {
+    "Verse": "14.2",
+    "Sanskrit Word": "मम साधर्म्यमागताः",
+    "English Meaning": "Having attained the same nature as Mine"
+  },
+  {
+    "Verse": "14.2",
+    "Sanskrit Word": "सर्गेऽपि नोपजायन्ते",
+    "English Meaning": "They are not born even at the time of creation"
+  },
+  {
+    "Verse": "14.3",
+    "Sanskrit Word": "मम योनिर्महद्ब्रह्म",
+    "English Meaning": "The vast material nature is My womb"
+  },
+  {
+    "Verse": "14.3",
+    "Sanskrit Word": "अहं बीजप्रदः पिता",
+    "English Meaning": "I am the seed-giving father"
+  },
+  {
+    "Verse": "14.5",
+    "Sanskrit Word": "सत्त्वं रजस्तम इति",
+    "English Meaning": "Goodness, passion, and ignorance"
+  },
+  {
+    "Verse": "14.5",
+    "Sanskrit Word": "गुणाः प्रकृतिसम्भवाः",
+    "English Meaning": "Qualities born of material nature"
+  },
+  {
+    "Verse": "14.6",
+    "Sanskrit Word": "सत्त्वं निर्मलत्वात्",
+    "English Meaning": "Goodness, being pure"
+  },
+  {
+    "Verse": "14.6",
+    "Sanskrit Word": "प्रकाशकमनामयम्",
+    "English Meaning": "Illuminating and healthy"
+  },
+  {
+    "Verse": "14.7",
+    "Sanskrit Word": "रजो रागात्मकं विद्धि",
+    "English Meaning": "Know Rajas to be the nature of passion"
+  },
+  {
+    "Verse": "14.7",
+    "Sanskrit Word": "तृष्णासङ्गसमुद्भवम्",
+    "English Meaning": "Born of thirst (desire) and attachment"
+  },
+  {
+    "Verse": "14.8",
+    "Sanskrit Word": "तमस्त्वज्ञानजं विद्धि",
+    "English Meaning": "Know Tamas to be born of ignorance"
+  },
+  {
+    "Verse": "14.8",
+    "Sanskrit Word": "प्रमादालस्यनिद्राभिः",
+    "English Meaning": "By negligence, laziness, and sleep"
+  },
+  {
+    "Verse": "14.11",
+    "Sanskrit Word": "सर्वद्वारेषु देहेऽस्मिन्",
+    "English Meaning": "In all the gates (senses) of this body"
+  },
+  {
+    "Verse": "14.11",
+    "Sanskrit Word": "प्रकाश उपजायते",
+    "English Meaning": "Light (of knowledge) arises"
+  },
+  {
+    "Verse": "14.12",
+    "Sanskrit Word": "लोभः प्रवृत्तिरारम्भः",
+    "English Meaning": "Greed, activity, and undertaking of deeds"
+  },
+  {
+    "Verse": "14.13",
+    "Sanskrit Word": "अप्रकाशोऽप्रवृत्तिश्च",
+    "English Meaning": "Darkness and inactivity"
+  },
+  {
+    "Verse": "14.14",
+    "Sanskrit Word": "सत्त्वे प्रवृद्धे",
+    "English Meaning": "When goodness predominates"
+  },
+  {
+    "Verse": "14.16",
+    "Sanskrit Word": "कर्मणः सुकृतस्याहुः",
+    "English Meaning": "The fruit of good action is said to be"
+  },
+  {
+    "Verse": "14.17",
+    "Sanskrit Word": "सत्त्वात्सञ्जायते ज्ञानम्",
+    "English Meaning": "From goodness, knowledge is born"
+  },
+  {
+    "Verse": "14.18",
+    "Sanskrit Word": "ऊर्ध्वं गच्छन्ति सत्त्वस्थाः",
+    "English Meaning": "Those in goodness go upward"
+  },
+  {
+    "Verse": "14.19",
+    "Sanskrit Word": "नान्यं गुणेभ्यः कर्तारम्",
+    "English Meaning": "No agent of action other than the qualities"
+  },
+  {
+    "Verse": "14.20",
+    "Sanskrit Word": "गुणानेतानतीत्य त्रीन्",
+    "English Meaning": "Transcending these three qualities"
+  },
+  {
+    "Verse": "14.21",
+    "Sanskrit Word": "कैर्लिङ्गैस्त्रीन्गुणान्",
+    "English Meaning": "By what marks / symptoms (is he known)"
+  },
+  {
+    "Verse": "14.22",
+    "Sanskrit Word": "उदासीनवदासीनः",
+    "English Meaning": "Sitting like one unconcerned / neutral"
+  },
+  {
+    "Verse": "14.24",
+    "Sanskrit Word": "समदुःखसुखः स्वस्थः",
+    "English Meaning": "Alike in pleasure and pain, established in the Self"
+  },
+  {
+    "Verse": "14.24",
+    "Sanskrit Word": "तुल्यप्रियाप्रियो धीरः",
+    "English Meaning": "Regarding the pleasant and unpleasant as equal"
+  },
+  {
+    "Verse": "14.25",
+    "Sanskrit Word": "मानापमानयोस्तुल्यः",
+    "English Meaning": "Same in honor and dishonor"
+  },
+  {
+    "Verse": "14.26",
+    "Sanskrit Word": "भक्तियोगेन सेवते",
+    "English Meaning": "Serves through the yoga of devotion"
+  },
+  {
+    "Verse": "14.27",
+    "Sanskrit Word": "ब्रह्मणो हि प्रतिष्ठा अहम्",
+    "English Meaning": "I am the basis of Brahman"
+  },
+  {
+    "Verse": "15.1",
+    "Sanskrit Word": "ऊर्ध्वमूलमधःशाखम्",
+    "English Meaning": "With roots above and branches below"
+  },
+  {
+    "Verse": "15.1",
+    "Sanskrit Word": "अश्वत्थं प्राहुखव्ययम्",
+    "English Meaning": "The eternal Ashvattha (Peepal) tree"
+  },
+  {
+    "Verse": "15.1",
+    "Sanskrit Word": "छन्दांसि यस्य पर्णानि",
+    "English Meaning": "Whose leaves are the Vedic hymns"
+  },
+  {
+    "Verse": "15.2",
+    "Sanskrit Word": "विषयप्रवालाः",
+    "English Meaning": "With sense-objects as shoots / buds"
+  },
+  {
+    "Verse": "15.3",
+    "Sanskrit Word": "असङ्गशस्त्रेण दृढेन छित्त्वा",
+    "English Meaning": "Cutting down with the strong weapon of detachment"
+  },
+  {
+    "Verse": "15.4",
+    "Sanskrit Word": "ततः पदं तत्परिमार्गितव्यम्",
+    "English Meaning": "Then that goal must be sought"
+  },
+  {
+    "Verse": "15.5",
+    "Sanskrit Word": "निर्मानमोहा जितसङ्गदोषा",
+    "English Meaning": "Free from pride and delusion, victorious over the evil of attachment"
+  },
+  {
+    "Verse": "15.6",
+    "Sanskrit Word": "न तद्भासयते सूर्यो",
+    "English Meaning": "The sun does not illumine it"
+  },
+  {
+    "Verse": "15.6",
+    "Sanskrit Word": "न शशाङ्को न पावकः",
+    "English Meaning": "Neither the moon nor fire"
+  },
+  {
+    "Verse": "15.7",
+    "Sanskrit Word": "ममैवांशो जीवलोके",
+    "English Meaning": "A fragment of My own self in the world of life"
+  },
+  {
+    "Verse": "15.7",
+    "Sanskrit Word": "मनःषष्ठानीन्द्रियाणि",
+    "English Meaning": "The six senses including the mind"
+  },
+  {
+    "Verse": "15.8",
+    "Sanskrit Word": "वायुर्गन्धानिवाशयात्",
+    "English Meaning": "As the wind carries scents from their source"
+  },
+  {
+    "Verse": "15.9",
+    "Sanskrit Word": "श्रोत्रं चक्षुः स्पर्शनं च",
+    "English Meaning": "The ear, the eye, and the sense of touch"
+  },
+  {
+    "Verse": "15.10",
+    "Sanskrit Word": "विमूढा नानुपश्यन्ति",
+    "English Meaning": "The deluded do not see"
+  },
+  {
+    "Verse": "15.10",
+    "Sanskrit Word": "पश्यन्ति ज्ञानचक्षुषः",
+    "English Meaning": "Those with the eye of knowledge see"
+  },
+  {
+    "Verse": "15.12",
+    "Sanskrit Word": "यदादित्यगतं तेजो",
+    "English Meaning": "The splendor which resides in the sun"
+  },
+  {
+    "Verse": "15.13",
+    "Sanskrit Word": "पुष्णामि चौषधीः सर्वाः",
+    "English Meaning": "I nourish all plants / herbs"
+  },
+  {
+    "Verse": "15.13",
+    "Sanskrit Word": "सोमो भूत्वा रसात्मकः",
+    "English Meaning": "Becoming the watery / sap-giving moon"
+  },
+  {
+    "Verse": "15.14",
+    "Sanskrit Word": "अहं वैश्वानरो भूत्वा",
+    "English Meaning": "Becoming the fire of digestion"
+  },
+  {
+    "Verse": "15.14",
+    "Sanskrit Word": "प्राणअपानसमायुक्तः",
+    "English Meaning": "Joined with the outward and inward breaths"
+  },
+  {
+    "Verse": "15.15",
+    "Sanskrit Word": "सर्वस्य चाहं हृदि सन्निविष्टो",
+    "English Meaning": "I am seated in the hearts of all"
+  },
+  {
+    "Verse": "15.15",
+    "Sanskrit Word": "मत्तः स्मृतिर्ज्ञानमपोहनं च",
+    "English Meaning": "From Me come memory, knowledge, and their loss"
+  },
+  {
+    "Verse": "15.15",
+    "Sanskrit Word": "वेदैश्च सर्वैरहमेव वेद्यो",
+    "English Meaning": "By all the Vedas, I am the one to be known"
+  },
+  {
+    "Verse": "15.16",
+    "Sanskrit Word": "द्वाविमौ पुरुषौ लोके",
+    "English Meaning": "There are two beings in this world"
+  },
+  {
+    "Verse": "15.16",
+    "Sanskrit Word": "क्षरश्चाक्षर एव च",
+    "English Meaning": "The perishable and the imperishable"
+  },
+  {
+    "Verse": "15.17",
+    "Sanskrit Word": "उत्तमः पुरुषस्त्वन्यः",
+    "English Meaning": "But the Supreme Being is another"
+  },
+  {
+    "Verse": "15.17",
+    "Sanskrit Word": "परमात्मेत्युदाहृतः",
+    "English Meaning": "Known as the Paramatma (Supreme Soul)"
+  },
+  {
+    "Verse": "15.18",
+    "Sanskrit Word": "अतोऽस्मि लोके वेदे च",
+    "English Meaning": "Therefore in the world and the Vedas"
+  },
+  {
+    "Verse": "15.18",
+    "Sanskrit Word": "प्रथितः पुरुषोत्तमः",
+    "English Meaning": "Known as Purushottama (the Supreme Person)"
+  },
+  {
+    "Verse": "15.20",
+    "Sanskrit Word": "इति गुह्यतमं शास्त्रम्",
+    "English Meaning": "Thus this most secret science"
+  },
+  {
+    "Verse": "16.1-3",
+    "Sanskrit Word": "अभयं सत्त्वसंशुद्धिः",
+    "English Meaning": "Fearlessness and purity of mind"
+  },
+  {
+    "Verse": "16.1-3",
+    "Sanskrit Word": "ज्ञानयोगव्यवस्थितिः",
+    "English Meaning": "Steadfastness in the yoga of knowledge"
+  },
+  {
+    "Verse": "16.1-3",
+    "Sanskrit Word": "दानं दमश्च यज्ञश्च",
+    "English Meaning": "Charity, control of the senses, and sacrifice"
+  },
+  {
+    "Verse": "16.1-3",
+    "Sanskrit Word": "स्वाध्यायस्तप आर्जवम्",
+    "English Meaning": "Study of scriptures, austerity, and straightforwardness"
+  },
+  {
+    "Verse": "16.1-3",
+    "Sanskrit Word": "अहिंसा सत्यमक्रोधः",
+    "English Meaning": "Non-violence, truthfulness, and freedom from anger"
+  },
+  {
+    "Verse": "16.1-3",
+    "Sanskrit Word": "त्यागः शान्तिरपैशुनम्",
+    "English Meaning": "Renunciation, peace, and aversion to fault-finding"
+  },
+  {
+    "Verse": "16.1-3",
+    "Sanskrit Word": "दया भूतेष्वलोलुप्त्वम्",
+    "English Meaning": "Compassion for all beings and freedom from greed"
+  },
+  {
+    "Verse": "16.1-3",
+    "Sanskrit Word": "मार्दवं ह्रीरचापलम्",
+    "English Meaning": "Gentleness, modesty, and lack of fickleness"
+  },
+  {
+    "Verse": "16.1-3",
+    "Sanskrit Word": "तेजः क्षमा धृतिः शौचम्",
+    "English Meaning": "Vigor, forgiveness, fortitude, and purity"
+  },
+  {
+    "Verse": "16.1-3",
+    "Sanskrit Word": "अद्रोहो नातिमानिता",
+    "English Meaning": "Freedom from malice and excessive pride"
+  },
+  {
+    "Verse": "16.4",
+    "Sanskrit Word": "दम्भो दर्पोऽभिमानश्च",
+    "English Meaning": "Hypocrisy, arrogance, and conceit"
+  },
+  {
+    "Verse": "16.4",
+    "Sanskrit Word": "पारुष्यमज्ञानं च",
+    "English Meaning": "Harshness and ignorance"
+  },
+  {
+    "Verse": "16.5",
+    "Sanskrit Word": "दैवी सम्पद्विमोक्षाय",
+    "English Meaning": "Divine qualities lead to liberation"
+  },
+  {
+    "Verse": "16.5",
+    "Sanskrit Word": "निबन्धायसुरी मता",
+    "English Meaning": "Demonic qualities lead to bondage"
+  },
+  {
+    "Verse": "16.7",
+    "Sanskrit Word": "प्रवृत्तिं च निवृत्तिं च",
+    "English Meaning": "What to do (engagement) and what not to do (withdrawal/restraint)"
+  },
+  {
+    "Verse": "16.8",
+    "Sanskrit Word": "असत्यमप्रतिष्ठं ते",
+    "English Meaning": "They say the world is without truth or basis"
+  },
+  {
+    "Verse": "16.8",
+    "Sanskrit Word": "अनीश्वरमपरस्परसम्भूतम्",
+    "English Meaning": "Without a God, caused only by sexual union"
+  },
+  {
+    "Verse": "16.10",
+    "Sanskrit Word": "काममाश्रित्य दुष्पूरम्",
+    "English Meaning": "Taking refuge in insatiable desire"
+  },
+  {
+    "Verse": "16.12",
+    "Sanskrit Word": "आशापाशशतैर्बद्धाः",
+    "English Meaning": "Bound by hundreds of ties of hope"
+  },
+  {
+    "Verse": "16.13",
+    "Sanskrit Word": "इदमस्तीदमपि मे भविष्यति",
+    "English Meaning": "I have this, and I shall also have that wealth"
+  },
+  {
+    "Verse": "16.14",
+    "Sanskrit Word": "असौ मया हतः शत्रुः",
+    "English Meaning": "This enemy has been slain by me"
+  },
+  {
+    "Verse": "16.14",
+    "Sanskrit Word": "ईश्वरोऽहम्हं भोगी",
+    "English Meaning": "I am the lord, I am the enjoyer"
+  },
+  {
+    "Verse": "16.16",
+    "Sanskrit Word": "मोहजालसमावृताः",
+    "English Meaning": "Entangled in the net of delusion"
+  },
+  {
+    "Verse": "16.16",
+    "Sanskrit Word": "पतन्ति नरकेऽशुचौ",
+    "English Meaning": "They fall into a foul hell"
+  },
+  {
+    "Verse": "16.19",
+    "Sanskrit Word": "तानहं द्विषतः क्रूरान्",
+    "English Meaning": "Those cruel and hateful people"
+  },
+  {
+    "Verse": "16.19",
+    "Sanskrit Word": "नराधमान् क्षिपाम्यजस्रम्",
+    "English Meaning": "The lowest of men, I cast them repeatedly"
+  },
+  {
+    "Verse": "16.21",
+    "Sanskrit Word": "त्रिविधं नरकस्येदं द्वारम्",
+    "English Meaning": "Threefold is the gate of hell"
+  },
+  {
+    "Verse": "16.21",
+    "Sanskrit Word": "कामः क्रोधस्तथा लोभः",
+    "English Meaning": "Lust, anger, and greed"
+  },
+  {
+    "Verse": "16.23",
+    "Sanskrit Word": "यः शास्त्रविधिमुत्सृज्य",
+    "English Meaning": "Who discards the ordinances of the scriptures"
+  },
+  {
+    "Verse": "16.24",
+    "Sanskrit Word": "तस्माच्छास्त्रं प्रमाणं ते",
+    "English Meaning": "Therefore, let the scriptures be your authority"
+  },
+  {
+    "Verse": "17.1",
+    "Sanskrit Word": "शास्त्रविधिमुत्सृज्य",
+    "English Meaning": "Setting aside the ordinances of the scriptures"
+  },
+  {
+    "Verse": "17.2",
+    "Sanskrit Word": "त्रिविधा भवति श्रद्धा",
+    "English Meaning": "Faith is of three kinds"
+  },
+  {
+    "Verse": "17.3",
+    "Sanskrit Word": "श्रद्धामयोऽयं पुरुषः",
+    "English Meaning": "A person is made of his faith"
+  },
+  {
+    "Verse": "17.4",
+    "Sanskrit Word": "यजन्ते सात्त्विका देवान्",
+    "English Meaning": "Those in goodness worship the gods"
+  },
+  {
+    "Verse": "17.4",
+    "Sanskrit Word": "प्रेतान्भूतगणान्श्चान्ये",
+    "English Meaning": "Others (in ignorance) worship ghosts and spirits"
+  },
+  {
+    "Verse": "17.8",
+    "Sanskrit Word": "आयुःसत्त्वबलारोग्य",
+    "English Meaning": "Life, purity, strength, and health"
+  },
+  {
+    "Verse": "17.8",
+    "Sanskrit Word": "रस्याः स्निग्धाः स्थिराः",
+    "English Meaning": "Juicy, wholesome, and substantial (foods)"
+  },
+  {
+    "Verse": "17.9",
+    "Sanskrit Word": "कट्वम्ललवणात्युष्ण",
+    "English Meaning": "Bitter, sour, salty, and very hot"
+  },
+  {
+    "Verse": "17.9",
+    "Sanskrit Word": "दुःखशोकामयप्रदाः",
+    "English Meaning": "Producing pain, grief, and disease"
+  },
+  {
+    "Verse": "17.10",
+    "Sanskrit Word": "यातयामं गतरसम्",
+    "English Meaning": "Stale and tasteless"
+  },
+  {
+    "Verse": "17.10",
+    "Sanskrit Word": "पूति पर्युषितं च",
+    "English Meaning": "Putrid and decomposed"
+  },
+  {
+    "Verse": "17.11",
+    "Sanskrit Word": "अफलकाङ्क्षिभिर्यज्ञो",
+    "English Meaning": "Sacrifice performed by those desiring no fruit"
+  },
+  {
+    "Verse": "17.14",
+    "Sanskrit Word": "शौचमार्जवम्",
+    "English Meaning": "Purity and straightforwardness"
+  },
+  {
+    "Verse": "17.14",
+    "Sanskrit Word": "शारीरं तप उच्यते",
+    "English Meaning": "Is called austerity of the body"
+  },
+  {
+    "Verse": "17.15",
+    "Sanskrit Word": "अनुद्वेगकरं वाक्यं",
+    "English Meaning": "Speech which causes no agitation"
+  },
+  {
+    "Verse": "17.15",
+    "Sanskrit Word": "स्वाध्यायाभ्यसनं चैव",
+    "English Meaning": "Practice of study of the scriptures"
+  },
+  {
+    "Verse": "17.16",
+    "Sanskrit Word": "मनःप्रसादः सौम्यत्वं",
+    "English Meaning": "Serenity of mind and gentleness"
+  },
+  {
+    "Verse": "17.16",
+    "Sanskrit Word": "भावसंशुद्धिरित्येतत्",
+    "English Meaning": "Purity of intent / feelings"
+  },
+  {
+    "Verse": "17.20",
+    "Sanskrit Word": "देशे काले च पात्रे",
+    "English Meaning": "At the right place, time, and to a worthy person"
+  },
+  {
+    "Verse": "17.20",
+    "Sanskrit Word": "तद्दानं सात्त्विकं स्मृतम्",
+    "English Meaning": "That charity is considered to be in goodness"
+  },
+  {
+    "Verse": "17.21",
+    "Sanskrit Word": "यतूप्रत्युपकारार्थम्",
+    "English Meaning": "Given with a view to receiving a return"
+  },
+  {
+    "Verse": "17.22",
+    "Sanskrit Word": "असत्कृतमवज्ञातम्",
+    "English Meaning": "Given without respect or with contempt"
+  },
+  {
+    "Verse": "17.23",
+    "Sanskrit Word": "ॐ तत्सदिति निर्देशो",
+    "English Meaning": "OM TAT SAT: the threefold designation"
+  },
+  {
+    "Verse": "17.28",
+    "Sanskrit Word": "अश्रद्धया हुतं दत्तम्",
+    "English Meaning": "Sacrifice or charity performed without faith"
+  },
+  {
+    "Verse": "17.28",
+    "Sanskrit Word": "असदित्युच्यते पार्थ",
+    "English Meaning": "Is called 'Asat' (non-existent/fruitless)"
+  },
+  {
+    "Verse": "18.1",
+    "Sanskrit Word": "संन्यासस्य",
+    "English Meaning": "Of renunciation (the state of being)"
+  },
+  {
+    "Verse": "18.1",
+    "Sanskrit Word": "त्यागस्य",
+    "English Meaning": "Of sacrifice / giving up (the act)"
+  },
+  {
+    "Verse": "18.2",
+    "Sanskrit Word": "काम्यानां कर्मणाम्",
+    "English Meaning": "Of activities based on selfish desire"
+  },
+  {
+    "Verse": "18.3",
+    "Sanskrit Word": "दोषवदिति",
+    "English Meaning": "As an evil / as a fault"
+  },
+  {
+    "Verse": "18.5",
+    "Sanskrit Word": "यज्ञो दानं तपश्चैव",
+    "English Meaning": "Sacrifice, charity, and penance"
+  },
+  {
+    "Verse": "18.5",
+    "Sanskrit Word": "पावनानि मनीषिणाम्",
+    "English Meaning": "Purifiers even for the wise"
+  },
+  {
+    "Verse": "18.7",
+    "Sanskrit Word": "नियतस्य तु संन्यासः",
+    "English Meaning": "Renunciation of prescribed duties"
+  },
+  {
+    "Verse": "18.7",
+    "Sanskrit Word": "मोहात्तस्य परित्यागः",
+    "English Meaning": "Abandonment out of delusion"
+  },
+  {
+    "Verse": "18.10",
+    "Sanskrit Word": "न द्वेष्ट्यकुशलं कर्म",
+    "English Meaning": "Does not hate disagreeable work"
+  },
+  {
+    "Verse": "18.11",
+    "Sanskrit Word": "देहभृता शक्यम्",
+    "English Meaning": "Possible for the embodied soul"
+  },
+  {
+    "Verse": "18.14",
+    "Sanskrit Word": "अधिष्ठानं तथा कर्ता",
+    "English Meaning": "The place (body) and the doer"
+  },
+  {
+    "Verse": "18.14",
+    "Sanskrit Word": "दैवं चैवात्र पञ्चमम्",
+    "English Meaning": "And the divine / providence as the fifth"
+  },
+  {
+    "Verse": "18.17",
+    "Sanskrit Word": "यस्य नाहङ्कृतो भावो",
+    "English Meaning": "One who is free from the ego of doership"
+  },
+  {
+    "Verse": "18.20",
+    "Sanskrit Word": "अविभक्तं विभक्तेषु",
+    "English Meaning": "Undivided among the divided (beings)"
+  },
+  {
+    "Verse": "18.22",
+    "Sanskrit Word": "अहैतुकमतत्त्वार्थवत्",
+    "English Meaning": "Without reason and without truth"
+  },
+  {
+    "Verse": "18.30",
+    "Sanskrit Word": "प्रवृत्तिं च निवृत्तिं च",
+    "English Meaning": "Action and renunciation"
+  },
+  {
+    "Verse": "18.30",
+    "Sanskrit Word": "बन्धं मोक्षं च",
+    "English Meaning": "Bondage and liberation"
+  },
+  {
+    "Verse": "18.33",
+    "Sanskrit Word": "धृत्या यया धारयते",
+    "English Meaning": "The determination by which one holds"
+  },
+  {
+    "Verse": "18.37",
+    "Sanskrit Word": "अग्रे विषमिव परिणामेऽमृतोपमम्",
+    "English Meaning": "Like poison at first but nectar in the end"
+  },
+  {
+    "Verse": "18.42",
+    "Sanskrit Word": "शमो दमस्तपः शौचम्",
+    "English Meaning": "Serenity, self-control, austerity, and purity"
+  },
+  {
+    "Verse": "18.42",
+    "Sanskrit Word": "आस्तिक्यम्",
+    "English Meaning": "Religiousness / faith in scriptures"
+  },
+  {
+    "Verse": "18.43",
+    "Sanskrit Word": "शौर्यं तेजो धृतिर्दाक्ष्यम्",
+    "English Meaning": "Heroism, majesty, firmness, and dexterity"
+  },
+  {
+    "Verse": "18.47",
+    "Sanskrit Word": "श्रेयान्स्वधर्मो विगुणः",
+    "English Meaning": "Better is one's own duty, though imperfect"
+  },
+  {
+    "Verse": "18.48",
+    "Sanskrit Word": "सहजं कर्म",
+    "English Meaning": "Duty born of one's nature"
+  },
+  {
+    "Verse": "18.54",
+    "Sanskrit Word": "ब्रह्मभूतः प्रसन्नात्मा",
+    "English Meaning": "Being one with Brahman, a serene soul"
+  },
+  {
+    "Verse": "18.61",
+    "Sanskrit Word": "ईश्वरः सर्वभूतानां",
+    "English Meaning": "The Lord of all beings"
+  },
+  {
+    "Verse": "18.61",
+    "Sanskrit Word": "हृद्देशेऽर्जुन तिष्ठति",
+    "English Meaning": "Dwells in the heart, O Arjuna"
+  },
+  {
+    "Verse": "18.63",
+    "Sanskrit Word": "यथेच्छसि तथा कुरु",
+    "English Meaning": "Do as you wish / desire"
+  },
+  {
+    "Verse": "18.66",
+    "Sanskrit Word": "सर्वधर्मान्परित्यज्य",
+    "English Meaning": "Abandoning all varieties of Dharma"
+  },
+  {
+    "Verse": "18.66",
+    "Sanskrit Word": "मामेकं शरणं व्रज",
+    "English Meaning": "Take refuge in Me alone"
+  },
+  {
+    "Verse": "18.73",
+    "Sanskrit Word": "नष्टो मोहः स्मृतिर्लब्धा",
+    "English Meaning": "My delusion is gone, my memory is regained"
+  },
+  {
+    "Verse": "18.78",
+    "Sanskrit Word": "यत्र योगेश्वरः कृष्णो",
+    "English Meaning": "Wherever there is Krishna, the Lord of Yoga"
+  },
+  {
+    "Verse": "18.78",
+    "Sanskrit Word": "यत्र पार्थो धनुर्धरः",
+    "English Meaning": "Wherever there is Arjuna, the archer"
+  },
+  {
+    "Verse": "18.78",
+    "Sanskrit Word": "तत्र श्रीर्विजयो भूतिर्",
+    "English Meaning": "There will be opulence, victory, and prosperity"
+  }
+
+
+]
